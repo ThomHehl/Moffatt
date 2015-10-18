@@ -1958,7 +1958,7 @@
        </hi>
       </p>
       <p>
-       <verse osisID="Gen.26.34" sID="Gen.26.34"/>When Esau was forty years 34 old, he married Judith the daughter of Beeri the
+       <verse osisID="Gen.26.34" sID="Gen.26.34"/>When Esau was forty years old, he married Judith the daughter of Beeri the
         Hittite and Basemath the daughter of Elon the Hittite-- <verse eId="Gen.26.34"/>
        <verse osisID="Gen.26.35" sID="Gen.26.35"/> which was a bitter disappointment to Isaac and Rebekah. <verse eId="Gen.26.35"/>
       </p>
@@ -2053,36 +2053,199 @@
       </p>
       <p>
        <hi type="italic">
-        <verse osisID="Gen.27.30" sID="Gen.27.30"/>No sooner had Isaac finished blessing Jacob—indeed Jacob had just left his father Isaac— when his brother Esau returned from the hunt. He too made a 31 tasty dish and brought it to his father, saying, “Let my father sit up and eat his son’s venison, that you may give me your bless­ing.” “Who are you?” said Isaac 32 his father. “Your son” he an­swered, “your oldest son, Esau!” This made Isaac tremble vio- 33 lently. [“Then who was it,” he asked, “who got venison and brought it to me? I ate it all before you came, and blessed him! Ay, and he shall be blessed.” When Esau heard 34 what his father said, he raised a loud and bitter wail. “My father,” he cried, “bless me, bless me too!”] “But,” he said, 35 “your brother stole in and took away your blessing.” Esau an- 36 swered, “Is it because his name is Jacob that he has twice over­reached me? He cheated me out of my birthright, and now he has cheated me out of my bless­ing!” Then he said, “Have you not kept a blessing for me?” Isaac answered, “I have made 37 him your master, 1 have ap-
-;pointed all his kinsmen to be his servants, I have given him corn and wine for his support. My son, what can I do for you?”
-3§ Esau said to his father, “My father, is that your only bless­ing? 0 my father, bless me, bless me too!” And Esau wept
-39  aloud. Then his father Isaac answered:
-“Far from rich soil on earth shall you live,
-far from the dew of heaven on high;
-40  you shall live by the sword and
-serve your brother; but when yon grow restive, his yoke yon shall break.”
-        <verse eId="Gen.27.30"/>
-        <verse osisID="Gen.27.31" sID="Gen.27.31"/>
-        <verse eId="Gen.27.31"/>
-        <verse osisID="Gen.27.32" sID="Gen.27.32"/>
-        <verse eId="Gen.27.32"/>
-        <verse osisID="Gen.27.33" sID="Gen.27.33"/>
-        <verse eId="Gen.27.33"/>
-        <verse osisID="Gen.27.34" sID="Gen.27.34"/>
-        <verse eId="Gen.27.34"/>
-        <verse osisID="Gen.27.35" sID="Gen.27.35"/>
-        <verse eId="Gen.27.35"/>
-        <verse osisID="Gen.27.36" sID="Gen.27.36"/>
-        <verse eId="Gen.27.36"/>
-        <verse osisID="Gen.27.37" sID="Gen.27.37"/>
-        <verse eId="Gen.27.37"/>
-        <verse osisID="Gen.27.38" sID="Gen.27.38"/>
-        <verse eId="Gen.27.38"/>
-        <verse osisID="Gen.27.39" sID="Gen.27.39"/>
-        <verse eId="Gen.27.39"/>
-        <verse osisID="Gen.27.40" sID="Gen.27.40"/>
-        <verse eId="Gen.27.40"/>
+        <verse osisID="Gen.27.30" sID="Gen.27.30"/>No sooner had Isaac finished blessing Jacob--indeed Jacob had just left his
+         father Isaac--when his brother Esau returned from the hunt. <verse eId="Gen.27.30"/>
+        <verse osisID="Gen.27.31" sID="Gen.27.31"/> He too made a tasty dish and brought it to his father, saying, <q>Let my father
+         sit up and eat his son’s venison, that you may give me your blessing.</q> <verse eId="Gen.27.31"/>
+        <verse osisID="Gen.27.32" sID="Gen.27.32"/> <q>Who are you?</q> said Isaac his father. <q>Your son</q> he answered, <q>your
+         oldest son, Esau!</q> <verse eId="Gen.27.32"/>
+        <verse osisID="Gen.27.33" sID="Gen.27.33"/> This made Isaac tremble violently. [<q>Then who was it,</q> he asked, <q>who got
+         venison and brought it to me? I ate it all before you came, and blessed him! Ay, and he shall be blessed.</q> <verse eId="Gen.27.33"/>
+        <verse osisID="Gen.27.34" sID="Gen.27.34"/> When Esau heard what his father said, he raised a loud and bitter wail. <q>My
+         father,</q> he cried, <q>bless me, bless me too!</q>] <verse eId="Gen.27.34"/>
+        <verse osisID="Gen.27.35" sID="Gen.27.35"/> <q>But,</q> he said, <q>your brother stole in and took away your blessing.</q><verse eId="Gen.27.35"/>
+        <verse osisID="Gen.27.36" sID="Gen.27.36"/> Esau answered, <q>Is it because his name is Jacob that he has twice over­reached
+         me? He cheated me out of my birthright, and now he has cheated me out of my blessing!</q> Then he said, <q>Have you not kept
+         a blessing for me?</q> <verse eId="Gen.27.36"/>
+        <verse osisID="Gen.27.37" sID="Gen.27.37"/> Isaac answered, <q>I have made him your master, I have
+         <milestone type="pb" n="30"/>
+         appointed all his kinsmen to be his servants, I have given him corn and wine for his support. My son,
+         what can I do for you?</q> <verse eId="Gen.27.37"/>
+        <verse osisID="Gen.27.38" sID="Gen.27.38"/> Esau said to his father, <q>My father, is that your only blessing? O my
+         father, bless me, bless me too!</q> And Esau wept aloud. <verse eId="Gen.27.38"/>
+        <verse osisID="Gen.27.39" sID="Gen.27.39"/> Then his father Isaac answered: <q>
+         <lg>
+          <l> Far from rich soil on earth shall you live, </l>
+          <l> far from the dew of heaven on high; <verse eId="Gen.27.39"/> </l>
+          <l> <verse osisID="Gen.27.40" sID="Gen.27.40"/> you shall live by the sword and serve your brother; </l>
+          <l> but when you grow restive, his yoke you shall break. <verse eId="Gen.27.40"/> </l>
+         </lg></q>
        </hi>
       </p>
-     <chapter eId="Gen.27"/>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.27.41" sID="Gen.27.41"/>Esau had a hatred of Jacob on account of the blessing he had got from his father;
+         Esau muttered, <q>It will soon be time to mourn for my father, and then I will murder my brother Jacob.</q> <verse eId="Gen.27.41"/>
+        <verse osisID="Gen.27.42" sID="Gen.27.42"/> When Rebekah was told what her elder son Esau was saying, she sent for her
+         younger son Jacob and said to him, <q>Here is your brother Esau consoling himself with the thought of murdering you! <verse eId="Gen.27.42"/>
+        <verse osisID="Gen.27.43" sID="Gen.27.43"/> Now, my son, do what I tell you; be off, fly to my brother Laban in Harran, <verse eId="Gen.27.43"/>
+        <verse osisID="Gen.27.44" sID="Gen.27.44"/> and stay awhile with him till your brother's anger is diverted till your
+         brother’s fury is diverted, <verse eId="Gen.27.44"/>
+        <verse osisID="Gen.27.45" sID="Gen.27.45"/> and he forgets what you have done to him; then I will send and fetch you back.
+         Why should I be bereft of you both at once?</q> <verse eId="Gen.27.45"/>
+       </hi>
+      </p>
+      <p>
+        <verse osisID="Gen.27.46" sID="Gen.27.46"/>Then Rebekah said to Isaac, <q>These Hittite women tire me to death. If Jacob
+         marries a Hittite like these women, some native girl, what good is life to me?</q> <verse eId="Gen.27.46"/>
+       <chapter eId="Gen.27"/>
+       <chapter osisId="Gen.28" sId="Gen.28"/>
+        <verse osisID="Gen.28.1" sID="Gen.28.1"/> So Isaac called Jacob, blessed him, and gave him this charge: <q>You are not to
+         marry any Canaanite woman; <verse eId="Gen.28.1"/>
+        <verse osisID="Gen.28.2" sID="Gen.28.2"/> be up and off to Paddan-aram, to the house of Bethuel your mother’s father, and
+         get a wife there, among the daughters of Laban your mother’s brother. <verse eId="Gen.28.2"/>
+        <verse osisID="Gen.28.3" sID="Gen.28.3"/>God Almighty bless you and make you fruitful and multiply you till you become a
+         group of nations! <verse eId="Gen.28.3"/>
+        <verse osisID="Gen.28.4" sID="Gen.28.4"/> May he grant you and your descendants the blessing of Abraham, that you may own
+         the land where you reside, the land God gave to Abraham.</q> <verse eId="Gen.28.4"/>
+      </p>
+      <p>
+       <verse osisID="Gen.28.5" sID="Gen.28.5"/>So Isaac sent Jacob away, and he went to Paddan-aram, to Laban the son of Bethuel the
+        Aramaean, the brother of Rebekah, Jacob’s and Esau’s mother. <verse eId="Gen.28.5"/>
+       <verse osisID="Gen.28.6" sID="Gen.28.6"/> When Esau found that Isaac had blessed Jacob and sent him off to get a wife in Paddan-aram,
+        charging him, as he blessed him, that he was not to marry a Canaanite woman, <verse eId="Gen.28.6"/>
+       <verse osisID="Gen.28.7" sID="Gen.28.7"/> and that Jacob had gone off to Paddan-aram in obedience to his father and mother, <verse eId="Gen.28.7"/>
+       <verse osisID="Gen.28.8" sID="Gen.28.8"/> Esau saw that his father did not care for Canaanite women; <verse eId="Gen.28.8"/>
+       <verse osisID="Gen.28.9" sID="Gen.28.9"/> so he went to Ishmael and, in addition to the wives he had, married Mahalath the daughter of
+        Abraham’s son Ishmael, the sister of Nebaioth. <verse eId="Gen.28.9"/>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.28.10" sID="Gen.28.10"/>Setting out from Beersheba, Jacob travelled toward Harran. <verse eId="Gen.28.10"/>
+       </hi>
+       <verse osisID="Gen.28.11" sID="Gen.28.11"/>[He happened to reach a certain place where he stayed all night, as the sun had set;
+        taking a stone, he put it under his head and lay down to sleep. <verse eId="Gen.28.11"/>
+       <verse osisID="Gen.28.12" sID="Gen.28.12"/> He had a dream. There stood a flight of steps rising from earth, till it reached
+        high heaven! And there were God’s angels ascending it and descending!] <verse eId="Gen.28.12"/>
+       <hi type="italic">
+        <verse osisID="Gen.28.13" sID="Gen.28.13"/> And the Eternal stood beside him, saying, <q>I am the Eternal, the God of your ancestor
+         Abraham and the God of Isaac; to you and to your descendants I give this land where you are lying. <verse eId="Gen.28.13"/>
+        <verse osisID="Gen.28.14" sID="Gen.28.14"/> Your
+         <milestone type="pb" n="30"/>
+         descendants shall be as numerous as the dust on the ground, you shall extend west and east and north and south, and all nations of
+         the world shall seek bliss such as yours and your descendants. <verse eId="Gen.28.14"/>
+        <verse osisID="Gen.28.15" sID="Gen.28.15"/>I am with you, I will guard you wherever you go, and I will bring you back to this land;
+         I will never leave you till I have done what I have promised you.</q> <verse eId="Gen.28.15"/>
+        <verse osisID="Gen.28.16" sID="Gen.28.16"/>Then Jacob woke up and said, <q>The Eternal must be here, and I never knew it!</q> <verse eId="Gen.28.16"/>
+       </hi>
+       <verse osisID="Gen.28.17" sID="Gen.28.17"/> [He was terrified, and he said, <q>What an awesome place! This is a very dwelling
+        of God, a very opening into heaven!</q> <verse eId="Gen.28.17"/>
+       <verse osisID="Gen.28.18" sID="Gen.28.18"/> So Jacob rose in the morning and, taking the stone he had put under his head, he
+        erected it as a pillar, 14  pouring oil upon it.]
+       <verse eId="Gen.28.18"/>
+       <hi type="italic">
+        <verse osisID="Gen.28.19" sID="Gen.28.19"/> He called the place Beth-el (God’s dwell­ing), though the first name of the town
+         had been Luz. <verse eId="Gen.28.19"/>
+       </hi>
+      </p>
+      <p>
+       <verse osisID="Gen.28.20" sID="Gen.28.20"/> [Then Jacob made a vow. He said, <q>If God will be with me and guard me on this
+        journey, giving me food to eat and clothes to wear, <verse eId="Gen.28.20"/>
+       <verse osisID="Gen.28.21" sID="Gen.28.21"/> so that I return to my father’s house safe and sound, then [[the Eternal shall be my
+        God <verse eId="Gen.28.21"/>
+       <verse osisID="Gen.28.22" sID="Gen.28.22"/> and]] this stone which I have erected as a pillar shall be God’s dwelling, and
+        I will give thee faithfully a tenth of all that thou givest me.</q> <verse eId="Gen.28.22"/>
+      </p>
+     <chapter eId="Gen.28"/>
+     <chapter osisId="Gen.29" sId="Gen.29"/>
+      <p>
+       <verse osisID="Gen.29.1" sID="Gen.29.1"/>Then Jacob travelled on till he reached the land of the East.] <verse eId="Gen.29.1"/>
+       <hi type="italic">
+        <verse osisID="Gen.29.2" sID="Gen.29.2"/> As he looked, he saw a well in the open country, with three flocks of sheep lying beside it. <verse eId="Gen.29.2"/>
+        <verse osisID="Gen.29.3" sID="Gen.29.3"/> (From this well men used to water the flocks; a heavy stone lay on the mouth
+         of the well, and when the flocks gathered, they used to roll the stone off the well and water the sheep; after which
+         they replaced the stone on the mouth of the well.) <verse eId="Gen.29.3"/>
+        <verse osisID="Gen.29.4" sID="Gen.29.4"/>Jacob said to the herdsmen, <q>My friends, where do you come from?</q>
+         <q>From Harran,</q> they replied. <verse eId="Gen.29.4"/>
+        <verse osisID="Gen.29.5" sID="Gen.29.5"/> He said to them, <q>Do you know Laban the son of Nahor?</q> <q>Yes,</q> they replied. <verse eId="Gen.29.5"/>
+        <verse osisID="Gen.29.6" sID="Gen.29.6"/> <q>Is he well? said Jacob.</q> <q>Yes,</q> they replied, <q>and here is his daughter
+         Rachel coming unth the sheep!</q> <verse eId="Gen.29.6"/>
+        <verse osisID="Gen.29.7" sID="Gen.29.7"/><q>Why,</q> said Jacob, <q>the sun is still high, it is not time yet for you to collect
+         your cattle; water the sheep yourselves, go and attend to them!</q> <verse eId="Gen.29.7"/>
+        <verse osisID="Gen.29.8" sID="Gen.29.8"/> <q>We cannot do that,</q> they answered, <q>till the flocks have all gathered,
+         and the stone is rolled off the mouth of the well. Then we water the sheep.</q> <verse eId="Gen.29.8"/>
+       </hi>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.29.9" sID="Gen.29.9"/>He was still talking to them when Rachel came up with her father’s sheep (for
+         she was a shepherdess). <verse eId="Gen.29.9"/>
+        <verse osisID="Gen.29.10" sID="Gen.29.10"/> So when Jacob saw Rachel the daughter of his mother s brother Laban, and the
+         sheep of his mother’s brother Laban, Jacob went forward and, rolling the stone off the mouth of the well, watered the flock
+         of his mother’s brother Laban. <verse eId="Gen.29.10"/>
+        <verse osisID="Gen.29.11" sID="Gen.29.11"/> Then Jacob kissed Rachel and wept aloud. <verse eId="Gen.29.11"/>
+        <verse osisID="Gen.29.12" sID="Gen.29.12"/> When he told Rachel that he was her father’s nephew and Rebekah’s son, she ran to
+         tell her father, <verse eId="Gen.29.12"/>
+        <verse osisID="Gen.29.13" sID="Gen.29.13"/> and as soon as Laban heard the news about Jacob, his sister’s son, he ran to
+         meet him, embraced him, kissed him over and again, and took him home. Jacob told Laban everything, <verse eId="Gen.29.13"/>
+        <verse osisID="Gen.29.14" sID="Gen.29.14"/> and Laban said to him, <q>You are my own bone and flesh.</q> He stayed with him
+         for a whole month. <verse eId="Gen.29.14"/>
+       </hi>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.29.15" sID="Gen.29.15"/>Then Laban said to him, <q>Are you to serve me for nothing, because you are my kinsman?
+         Tell me what your wage is to be.</q> <verse eId="Gen.29.15"/>
+        <verse osisID="Gen.29.16" sID="Gen.29.16"/> Now Laban had two daughters, the elder called Leah and the younger called Rachel; <verse eId="Gen.29.16"/>
+        <verse osisID="Gen.29.17" sID="Gen.29.17"/> Leah had dull eyes, but Rachel was lovely
+         <milestone type="pb" n="30"/>
+         and handsome. <verse eId="Gen.29.17"/>
+        <verse osisID="Gen.29.18" sID="Gen.29.18"/> As Jacob loved Rachel, he said, <q>I will serve you seven years for Rachel, your
+         younger daughter.</q> <verse eId="Gen.29.18"/>
+        <verse osisID="Gen.29.19" sID="Gen.29.19"/> <q>Better let you have her than a stranger,</q> said Laban; <q>stay on with me.</q> <verse eId="Gen.29.19"/>
+       </hi>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.29.20" sID="Gen.29.20"/>Jacob served seven years for Rachel; they seemed to him only a few days,
+         such was his love for her. <verse eId="Gen.29.20"/>
+        <verse osisID="Gen.29.21" sID="Gen.29.21"/>Then Jacob said to Laban, <q>Let me have my wife, that I may go in to her;
+         the time is up</q>. <verse eId="Gen.29.21"/>
+        <verse osisID="Gen.29.22" sID="Gen.29.22"/> So Laban gathered all the natives and gave a banquet; <verse eId="Gen.29.22"/>
+        <verse osisID="Gen.29.23" sID="Gen.29.23"/> during the evening he took his daughter Leah and brought her to Jacob, who
+         went in to her. <verse eId="Gen.29.23"/>
+        <verse osisID="Gen.29.24" sID="Gen.29.24"/> (Laban gave his maidservant Zilpah to his daughter Leah as her maid.) <verse eId="Gen.29.24"/>
+        <verse osisID="Gen.29.25" sID="Gen.29.25"/>In the morning he found it was Leah! So he said to Laban, <q>What is this
+         you have done? Did I not serve you for Rachel? Why then have you cheated me?</q> <verse eId="Gen.29.25"/>
+        <verse osisID="Gen.29.26" sID="Gen.29.26"/> Laban answered, <q>It is not the custom in our country to marry the younger
+         daughter before the older. <verse eId="Gen.29.26"/>
+        <verse osisID="Gen.29.27" sID="Gen.29.27"/>Complete this girl’s marriage-week; then we will let you have the other for
+         another seven years service.</q> <verse eId="Gen.29.27"/>
+        <verse osisID="Gen.29.28" sID="Gen.29.28"/> Jacob did so; he completed his marriage-week, and then Laban gave him his
+         daughter Rachel in marriage. <verse eId="Gen.29.28"/>
+        <verse osisID="Gen.29.29" sID="Gen.29.29"/> (Laban gave his maid­servant Bilhah to his daughter Rachel as her maid.) <verse eId="Gen.29.29"/>
+        <verse osisID="Gen.29.30" sID="Gen.29.30"/> Jacob went in to Rachel also, but he loved Rachel more than Leah. <verse eId="Gen.29.30"/>
+       </hi>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.29.31" sID="Gen.29.31"/>Then he served Laban for another seven years. The Eternal saw that Leah was
+         disliked, so he opened her womb, while Rachel remained barren. <verse eId="Gen.29.31"/>
+        <verse osisID="Gen.29.32" sID="Gen.29.32"/> Leah conceived and bore a son, whom she called Reuben (Lookson)—saying, 
+         <q>The Eternal has indeed looked on my trouble! Now my husband will love me!</q> <verse eId="Gen.29.32"/>
+        <verse osisID="Gen.29.33" sID="Gen.29.33"/> Again she conceived and bore a son; she said, <q>The Eternal has indeed heard
+         that I am disliked, so he has given me this other son,</q> and she called him Simeon (Heard). <verse eId="Gen.29.33"/>
+        <verse osisID="Gen.29.34" sID="Gen.29.34"/> Again she conceived and bore a son. <q>Now,</q> she said, <q>my husband will
+         at last be attached to me, when I have borne three sons to him</q>--so his name was Levi (Attached). <verse eId="Gen.29.34"/>
+        <verse osisID="Gen.29.35" sID="Gen.29.35"/> Again she conceived and bore a son. <q>This time,</q> she said, <q>I will praise
+         the Eternal,</q> so she called him Judah (Praise). Then she ceased to bear children. <verse eId="Gen.29.35"/>
+       </hi>
+      </p>
+     <chapter eId="Gen.29"/>
+     <chapter osisId="Gen.30" sId="Gen.30"/>
+      <p>
+       <verse osisID="Gen.30.31" sID="Gen.30.31"/>
+       <verse eId="Gen.30.31"/>
+      </p>
+     <chapter eId="Gen.30"/>
    </div>
