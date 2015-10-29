@@ -3823,233 +3823,311 @@
        <verse eId="Gen.48.20"/>
       </p>
      <chapter eId="Gen.48"/>
-     <chapter osisId="Gen.48" sId="Gen.48"/>
+     <chapter osisId="Gen.49" sId="Gen.49"/>
       <hi type="italic">
        <p>
-        <verse osisID="Gen.48.1" sID="Gen.48.1"/>Then Jacob called for his sons. <q>Gather,</q> he said, <q>that I may
+        <verse osisID="Gen.49.1" sID="Gen.49.1"/>Then Jacob called for his sons. <q>Gather,</q> he said, <q>that I may
          tell you what is to befall you in after days.
-        <verse eId="Gen.48.1"/>
-        <verse osisID="Gen.48.2" sID="Gen.48.2"/>
+        <verse eId="Gen.49.1"/>
+        <verse osisID="Gen.49.2" sID="Gen.49.2"/>
          <lg>
           <l> Sons of Jacob, gather round, </l>
           <l> hark to Israel your sire! </l>
          </lg></q>
-        <verse eId="Gen.48.2"/>
+        <verse eId="Gen.49.2"/>
        </p>
        <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
+        <verse osisID="Gen.49.3" sID="Gen.49.3"/>
          <q><lg>
           <l> Reuben, you are my first-born, </l>
           <l> the first flush of my manhood; </l>
          </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
+        <verse eId="Gen.49.3"/>
+        <verse osisID="Gen.49.4" sID="Gen.49.4"/>
          <lg>
           <l> yours the height of rank and might, </l>
           <l> but lost by surging lust; </l>
+        <milestone type="pb" n="58"/>
           <l> you went in to your father’s wife, </l>
           <l> you stained his wedlock, you profaned it! </l>
          </lg></q>
-        <verse eId="Gen.48.4"/>
+        <verse eId="Gen.49.4"/>
        </p>
        <p>
-        <verse osisID="Gen.48.5" sID="Gen.48.5"/>
+        <verse osisID="Gen.49.5" sID="Gen.49.5"/>
          <q><lg>
-          <l>
+          <l>Simeon and Levi are a pair: </l>
+          <l> their plots are ruthless stabs. </l>
+         </lg>
+        <verse eId="Gen.49.5"/>
+        <verse osisID="Gen.49.6" sID="Gen.49.6"/>
+         <lg>
+          <l> Their plans, my soul, never share; </l>
+          <l> heart of mine, join not their council!-- </l>
+          <l> for men they murder in their ire, </l>
+          <l> and wantonly disable oxen. </l>
+        <verse eId="Gen.49.6"/>
+        <verse osisID="Gen.49.7" sID="Gen.49.7"/>
+          <l> A curse on their ire so fierce! </l>
+          <l> a curse on their rage so cruel! </l>
+          <l> I will disperse them throughout Jacob, </l>
+          <l> and scatter them over Israel. </l>
+         </lg></q>
+        <verse eId="Gen.49.7"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.8" sID="Gen.49.8"/>
+         <q><lg>
+          <l> But, Judah, your brothers praise you; </l>
+          <l> as you grip your foes by the neck, </l>
+          <l> your father’s sons own your sway! </l>
+         </lg>
+        <verse eId="Gen.49.8"/>
+        <verse osisID="Gen.49.9" sID="Gen.49.9"/>
+         <lg>
+          <l> A lion’s whelp is Judah! </l>
+          <l> My son, you take cover, sated with prey! </l>
+          <l> He crouches, couches like a lion, like an old lion—who dare rouse him? </l>
+         </lg>
+        <verse eId="Gen.49.9"/>
+        <verse osisID="Gen.49.10" sID="Gen.49.10"/>
+         <lg>
+          <l> The sceptre never passes from Judah, </l>
+          <l> nor ever the staff of sway, </l>
+          <l> till he comes into his own, </l>
+          <l> and makes the clans obey. </l>
+         </lg>
+        <verse eId="Gen.49.10"/>
+        <verse osisID="Gen.49.11" sID="Gen.49.11"/>
+         <lg>
+          <l> He tethers his foal to a vine, </l>
+          <l> his colt to a rare red vine; </l>
+          <l> he washes his clothes in wine, </l>
+          <l> his robes in the juice of the grape! </l>
+         </lg>
+        <verse eId="Gen.49.11"/>
+        <verse osisID="Gen.49.12" sID="Gen.49.12"/>
+         <lg>
+          <l> His eyes are heavy with wine, </l>
+          <l> his teeth are white with milk. </l>
+         </lg></q>
+        <verse eId="Gen.49.12"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.13" sID="Gen.49.13"/>
+         <q><lg>
+          <l> Zebulun lies on the sea-shore, </l>
+          <l> lies as a haven for ships, </l>
+          <l> with his flank on Sidon. </l>
+         </lg></q>
+        <verse eId="Gen.49.13"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.14" sID="Gen.49.14"/>
+         <q><lg>
+          <l> Issachar is a sturdy ass, </l>
+          <l> lolling beside the sheepfolds; </l>
+         </lg>
+        <verse eId="Gen.49.14"/>
+        <verse osisID="Gen.49.15" sID="Gen.49.15"/>
+         <lg>
+          <l> he saw that rest was good, </l>
+          <l> and sweet the shire, </l>
+          <l> so he stooped to shoulder loads </l>
+          <l> and turned a drudge for hire. </l>
+         </lg></q>
+        <verse eId="Gen.49.15"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.16" sID="Gen.49.16"/>
+         <q><lg>
+          <l> Dan upholds his clan </l>
+          <l> as a clan in Israel; </l>
+         </lg>
+        <verse eId="Gen.49.16"/>
+        <verse osisID="Gen.49.17" sID="Gen.49.17"/>
+         <lg>
+          <l> a serpent on the road is Dan, </l>
+          <l> a snake upon the path, </l>
+          <l> that bites the horse’s hoof, </l>
+          <l> till the rider tumbles backward. </l>
+         </lg>
+        <verse eId="Gen.49.17"/>
+        <verse osisID="Gen.49.18" sID="Gen.49.18"/>
+         <lg>
+          <l> [[O Eternal, I am waiting for thy victory!]].
           </l>
+         </lg></q>
+        <verse eId="Gen.49.18"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.19" sID="Gen.49.19"/>
+         <q><lg>
+          <l>Gad--raiders raid him, </l>
+          <l> but he raids their rear! </l>
+         </lg></q>
+        <verse eId="Gen.49.19"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.20" sID="Gen.49.20"/>
+         <q><lg>
+          <l> Asher--rich his produce is, </l>
+          <l> he yields royal dainties! </l>
+         </lg></q>
+        <verse eId="Gen.49.20"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.21" sID="Gen.49.21"/>
+         <q><lg>
+          <l> A slender oak is Naphtali, </l>
+          <l> with lovely boughs. </l>
+         </lg></q>
+        <verse eId="Gen.49.21"/>
+       </p>
+       <p>
+        <verse osisID="Gen.49.22" sID="Gen.49.22"/>
+         <q><lg>
+          <l>A tree of fruit is Joseph,
+          </l>
+          <l> a fruit-tree by a well, </l>
+          <l> the branches covering the walls. </l>
           <l>
           </l>
          </lg>
-        <verse eId="Gen.48.5"/>
-        <verse osisID="Gen.48.6" sID="Gen.48.6"/>
+        <verse eId="Gen.49.22"/>
+        <verse osisID="Gen.49.23" sID="Gen.49.23"/>
          <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
+          <l> Archers bitterly assail him, </l>
+          <l> shoot at him savagely, </l>
+         </lg>
+        <verse eId="Gen.49.23"/>
+        <verse osisID="Gen.49.24" sID="Gen.49.24"/>
+         <lg>
+          <l> but his own bow remains steady, </l>
+          <l> and he nimbly plies his arms; </l>
+          <l> Jacob’s Mighty One upholds him, </l>
+          <l> Israel’s Strength sustains him-- </l>
+         </lg>
+        <verse eId="Gen.49.24"/>
+        <verse osisID="Gen.49.25" sID="Gen.49.25"/>
+         <lg>
+          <l> ay,your father’s God, who aids you, </l>
+          <l> God Almighty who will bless you </l>
+          <l> with water from the heaven above </l>
+          <l> and water from the flood below, </l>
+          <l> blessings of breast and of womb, </l>
+         </lg>
+        <verse eId="Gen.49.25"/>
+        <verse osisID="Gen.49.26" sID="Gen.49.26"/>
+         <lg>
+          <l> blessings of fatherhood, sires and sons, </l>
+          <l> dews from the ancient mountains, </l>
+          <l> the boon of the everlasting hills. </l>
+          <l> Such blessings rest on Joseph, </l>
+          <l> the prince among his brothers! </l>
          </lg></q>
-        <verse eId="Gen.48.6"/>
+        <verse eId="Gen.49.26"/>
        </p>
        <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
+        <verse osisID="Gen.49.27" sID="Gen.49.27"/>
          <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
+          <l> Benjamin plunders wolf-like, </l>
+          <l> devouring prey in the morning, </l>
+          <l> dividing spoil at event” </l>
          </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
-       </p>
-       <p>
-        <verse osisID="Gen.48.3" sID="Gen.48.3"/>
-         <q><lg>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg>
-        <verse eId="Gen.48.3"/>
-        <verse osisID="Gen.48.4" sID="Gen.48.4"/>
-         <lg>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-          <l>
-          </l>
-         </lg></q>
-        <verse eId="Gen.48.4"/>
+        <verse eId="Gen.49.27"/>
        </p>
       </hi>
-     <chapter eId="Gen.48"/>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.49.28" sID="Gen.49.28"/>All these are the twelve clans of Israel, and this was what their
+         ancestor said to them.
+       </hi>
+        He blessed them, giving a special blessing to each of them, <verse eId="Gen.49.28"/>
+       <verse osisID="Gen.49.29" sID="Gen.49.29"/> and he gave them this charge. <q>I am to be gathered to my
+        people,</q> he said; <q>bury me beside my fathers in the cave in the field of Ephron the Hittite, <verse eId="Gen.49.29"/>
+       <verse osisID="Gen.49.30" sID="Gen.49.30"/> the cave in the field at Makpelah, east of Mamre, in the land of
+        Canaan, the cave that Abraham bought along with the field from Ephron the Hittite, in order to secure a
+        burying-place. <verse eId="Gen.49.30"/>
+       <verse osisID="Gen.49.31" sID="Gen.49.31"/> There Abraham and his wife Sarah were buried, there Isaac and his
+        wife Rebekah were buried, and there I buried Leah.</q> <verse eId="Gen.49.31"/>
+       <verse osisID="Gen.49.33" sID="Gen.49.33"/> When Jacob ended his charge to his sons, he drew his feet up into the
+        bed, breathed his
+        <milestone type="pb" n="59"/>
+        last, and was gathered to his father’s kindred.
+       <verse eId="Gen.49.33"/>
+      </p>
+     <chapter eId="Gen.49"/>
+     <chapter osisId="Gen.50" sId="Gen.50"/>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.50.1" sID="Gen.50.1"/>Joseph fell on his father's face, weeping over him and kissing him; <verse eId="Gen.50.1"/>
+        <verse osisID="Gen.50.2" sID="Gen.50.2"/> he ordered the embalmers in his service to embalm his father; which
+         the embalmers did, <verse eId="Gen.50.2"/>
+        <verse osisID="Gen.50.3" sID="Gen.50.3"/> devoting forty days to the task of embalming Israel, for that was the
+         regular time. The Egyptians mourned him for sev­enty days. <verse eId="Gen.50.3"/>
+       </hi>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.50.4" sID="Gen.50.4"/>When the mourning days were over, Joseph said to the house­hold of the
+         Pharaoh, <q>If I have found favour with you, pray report to the Pharaoh <verse eId="Gen.50.4"/>
+        <verse osisID="Gen.50.5" sID="Gen.50.5"/> that when my father was dying, he made me swear to bury him in the
+         grave he had dug for himself in Canaan. Ask him to allow me to go up and bury my father. I will come back
+         again.</q> <verse eId="Gen.50.5"/>
+        <verse osisID="Gen.50.6" sID="Gen.50.6"/> The Pharaoh said, <q>Go up and bury your father, as he made you
+         swear to do.</q> <verse eId="Gen.50.6"/>
+        <verse osisID="Gen.50.7" sID="Gen.50.7"/> So Joseph went to bury his father, accom­panied by all the courtiers of
+         the Pharaoh, the chief men of his palace, and all the heads of Egypt, <verse eId="Gen.50.7"/>
+        <verse osisID="Gen.50.8" sID="Gen.50.8"/> as well as by all Joseph’s household and his brothers and his
+         father’s household; all they left behind them in the district of Goshen were their little ones, their flocks
+         and their herds. <verse eId="Gen.50.8"/>
+        <verse osisID="Gen.50.9" sID="Gen.50.9"/> He also took an escort of chariots and horsemen. It was a very large
+         company. <verse eId="Gen.50.9"/>
+        <verse osisID="Gen.50.10" sID="Gen.50.10"/> When they reached the Bramble threshing- floor, east of the Jordan,
+         they raised a loud and bitter wail; there Joseph mourned seven days for his father. <verse eId="Gen.50.10"/>
+        <verse osisID="Gen.50.11" sID="Gen.50.11"/> And when the natives, the Canaanites, saw this mourning at the
+         Bramble threshing-floor, they said, <q>This is a terrible mourning for the Egyptians!</q> Hence the spot was
+         called Abel-mizraim (Egypt-mourn); it lies east of the Jor­dan. <verse eId="Gen.50.11"/>
+       </hi>
+       <verse osisID="Gen.50.12" sID="Gen.50.12"/> His sons did as he had ordered them; <verse eId="Gen.50.12"/>
+       <verse osisID="Gen.50.13" sID="Gen.50.13"/> they carried him to the land of Canaan and buried him in the cave
+        within the field at Makpelah, east of Mamre, the cave which Abraham had bought along with the field from
+        Ephron the Hittite, to se­cure a burying-place. <verse eId="Gen.50.13"/>
+      </p>
+      <p>
+       <hi type="italic">
+        <verse osisID="Gen.50.14" sID="Gen.50.14"/>Then Joseph returned to Egypt along with his brothers and, all who
+         had accompanied him to bury his father, when the funeral was over.
+        <verse eId="Gen.50.14"/>
+       </hi>
+       <verse osisID="Gen.50.15" sID="Gen.50.15"/> [But when Joseph’s brothers realized that their father was dead, they
+        thought, <q>Perhaps Joseph will hate us and take care to pay us back for all the evil we did to him.</q> <verse eId="Gen.50.15"/>
+       <verse osisID="Gen.50.16" sID="Gen.50.16"/> So they sent this message to Joseph: <q>Your father bade us, before
+        he died, to ask Joseph, <verse eId="Gen.50.16"/>
+       <verse osisID="Gen.50.17" sID="Gen.50.17"/> <q>Pray forgive the crime and the sin of your brothers, the evil they
+        did to you!</q> Do forgive the crime of the serv­ants of your father’s God!</q> When Joseph was told this, he
+        broke down in tears. <verse eId="Gen.50.17"/>
+       <verse osisID="Gen.50.18" sID="Gen.50.18"/> Then his brothers went and fell down be­fore him, saying, <q>See, we
+        are your humble servants!</q> <verse eId="Gen.50.18"/>
+       <verse osisID="Gen.50.19" sID="Gen.50.19"/> <q>Have no fear,</q> said Joseph; <q>am I in the place of God? <verse eId="Gen.50.19"/>
+       <verse osisID="Gen.50.20" sID="Gen.50.20"/> As for you, you meant to do me evil, but God meant good to come out
+        of it, as is happening to-day, when many lives are being pre­served. <verse eId="Gen.50.20"/>
+       <verse osisID="Gen.50.21" sID="Gen.50.21"/> So do not be afraid; I will maintain you and your little ones.</q>
+        Thus he reassured them and encouraged them. <verse eId="Gen.50.21"/>
+      </p>
+      <p>
+       <verse osisID="Gen.50.22" sID="Gen.50.22"/>Joseph lived in Egypt, he and his father’s family; he lived a hundred
+        and ten years, <verse eId="Gen.50.22"/>
+       <verse osisID="Gen.50.23" sID="Gen.50.23"/> living to see Ephraim’s great-grand­children and also to acknowl­edge
+        the children of Machir, Manasseh’s son, as members of his family. <verse eId="Gen.50.23"/>
+       <verse osisID="Gen.50.24" sID="Gen.50.24"/> Then Joseph said to his kinsmen, <q>I am dying, but God will be sure
+        to remem­ber you and bring you up from this land to the land that he swore he would give to Abraham, Isaac, and
+        Jacob.</q> <verse eId="Gen.50.24"/>
+       <verse osisID="Gen.50.25" sID="Gen.50.25"/> Joseph made the Israelites swear an oath, saying, <q>As God will be
+        sure to remember you, so you must carry up my bones from here.</q> <verse eId="Gen.50.25"/>
+       <verse osisID="Gen.50.26" sID="Gen.50.26"/> At the age of a hundred and ten Joseph died; he was embalmed and put
+        into a mummy-ease in Egypt.] <verse eId="Gen.50.26"/>
+      </p>
+     <chapter eId="Gen.50"/>
    </div>
