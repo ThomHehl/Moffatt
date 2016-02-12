@@ -1,6 +1,6 @@
    <div type="book" osisID="Lev">
     <milestone type="pb" n="110"/>
-    <chapter osisId="Lev.1" sId="Lev.1"/>
+    <chapter osisID="Lev.1" sID="Lev.1"/>
      <p>
       <verse sID="Lev.1.1" osisID="Lev.1.1"/>Then the Eternal called Moses, and from the Trysting tent gave him these orders for
        the Israelites. <verse eID="Lev.1.1"/>
@@ -47,8 +47,8 @@
        burn it on the wood upon the fire on the altar, as a burnt-offering, an offering made by fire, with a soothing odour for the
        Eternal.</q> <verse eID="Lev.1.17"/>
      </p>
-    <chapter eId="Lev.1"/>
-    <chapter osisId="Lev.3" sId="Lev.3"/>
+    <chapter eID="Lev.1"/>
+    <chapter osisID="Lev.3" sID="Lev.3"/>
      <p>
       <verse sID="Lev.3.1" osisID="Lev.3.1"/><q>When the man’s offering is a recompense-offering, if his offering be from the herd,
        then what he offers, male or female, must be unblemished before the Eternal. <verse eID="Lev.3.1"/>
@@ -89,8 +89,8 @@
       <verse sID="Lev.3.17" osisID="Lev.3.17"/> This regulation is to last for all time and all over the country: <q>Never eat fat
        or blood.</q> <verse eID="Lev.3.17"/></q>
      </p>
-    <chapter eId="Lev.3"/>
-    <chapter osisId="Lev.2" sId="Lev.2"/>
+    <chapter eID="Lev.3"/>
+    <chapter osisID="Lev.2" sID="Lev.2"/>
      <p>
       <verse sID="Lev.2.1" osisID="Lev.2.1"/><q>When a man’s offering is an offering of cereals to the Eternal, what he offers must
        be fine flour; he must pour oil upon it, adding incense, <verse eID="Lev.2.1"/>
@@ -128,8 +128,8 @@
       <verse sID="Lev.2.16" osisID="Lev.2.16"/> The priest shall burn the reminder-to-the-Eternal part of the bruised grain, the
        oil, and the incenses, as an offering made by fire to the Eternal.</q> <verse eID="Lev.2.16"/>
      </p>
-    <chapter eId="Lev.2"/>
-    <chapter osisId="Lev.4" sId="Lev.4"/>
+    <chapter eID="Lev.2"/>
+    <chapter osisID="Lev.4" sID="Lev.4"/>
      <p>
       <verse sID="Lev.4.1" osisID="Lev.4.1"/>Then the Eternal gave Moses these orders <verse eID="Lev.4.1"/>
       <verse sID="Lev.4.2" osisID="Lev.4.2"/> for the Israelites in the case of anyone sinning unawares, doing
@@ -220,8 +220,8 @@
        the priest make expiation for the man in connexion with the sin he has committed, and he shall be forgiven.</q>
       <verse eID="Lev.4.35"/>
      </p>
-    <chapter eId="Lev.4"/>
-    <chapter osisId="Lev.5" sId="Lev.5"/>
+    <chapter eID="Lev.4"/>
+    <chapter osisID="Lev.5" sID="Lev.5"/>
      <p>
       <verse sID="Lev.5.1" osisID="Lev.5.1"/><q>(If anyone sins by remaining silent when he is adjured to give evidence as
        a witness of something he has seen or known, and so incurs punishment; <verse eID="Lev.5.1"/>
@@ -277,8 +277,8 @@
       <verse sID="Lev.5.19" osisID="Lev.5.19"/> This is an offering for guilt, for the man is certainly guilty in the sight of
        the Eternal.]]</q> <verse eID="Lev.5.19"/>
      </p>
-    <chapter eId="Lev.5"/>
-    <chapter osisId="Lev.6" sId="Lev.6"/>
+    <chapter eID="Lev.5"/>
+    <chapter osisID="Lev.6" sID="Lev.6"/>
      <p>
       <verse sID="Lev.6.1" osisID="Lev.6.1"/> The Eternal said to Moses, <verse eID="Lev.6.1"/>
       <verse sID="Lev.6.2" osisID="Lev.6.2"/><q>If anyone sins by committing fraud against the Eternal, by cheating a neighbour
@@ -353,8 +353,8 @@
       <verse sID="Lev.6.30" osisID="Lev.6.30"/> [[But no sin-offering whose blood is ever brought inside the Trysting tent for
        expiation within the sacred interior, is to be eaten; it shall be burned with fire.]]</q><verse eID="Lev.6.30"/>
      </p>
-    <chapter eId="Lev.6"/>
-    <chapter osisId="Lev.7" sId="Lev.7"/>
+    <chapter eID="Lev.6"/>
+    <chapter osisID="Lev.7" sID="Lev.7"/>
      <p>
       <verse sID="Lev.7.1" osisID="Lev.7.1"/><q>This is the law of the guilt-offering: it is most sacred. <verse eID="Lev.7.1"/>
       <verse sID="Lev.7.2" osisID="Lev.7.2"/> The victim in the guilt-offering must be killed where the burnt-offering is
@@ -444,8 +444,8 @@
       <verse sID="Lev.7.38" osisID="Lev.7.38"/> which the Eternal laid down for Moses on mount Sinai, when Moses was
        commanding the Israelites to present their offerings to the Eternal in the desert of Sinai. <verse eID="Lev.7.38"/>
      </p>
-    <chapter eId="Lev.7"/>
-    <chapter osisId="Lev.8" sId="Lev.8"/>
+    <chapter eID="Lev.7"/>
+    <chapter osisID="Lev.8" sID="Lev.8"/>
      <p>
       <verse sID="Lev.8.1" osisID="Lev.8.1"/>The Eternal then said to Moses, <verse eID="Lev.8.1"/>
       <verse sID="Lev.8.2" osisID="Lev.8.2"/> <q>Take Aaron and his sons, take the vestments and the anointing oil, the
@@ -522,8 +522,8 @@
      </p>
      <p>
       <verse sID="Lev.8.36" osisID="Lev.8.36"/> Aaron and his sons did every­thing that the Eternal ordered them by Moses. <verse eID="Lev.8.36"/>
-    <chapter eId="Lev.8"/>
-    <chapter osisId="Lev.9" sId="Lev.9"/>
+    <chapter eID="Lev.8"/>
+    <chapter osisID="Lev.9" sID="Lev.9"/>
       <verse sID="Lev.9.1" osisID="Lev.9.1"/> And on the eighth day Moses called Aaron and his sons and the sheikhs of
        Israel, <verse eID="Lev.9.1"/>
       <verse sID="Lev.9.2" osisID="Lev.9.2"/> saying to Aaron, <q>Take a bull calf for a sin-offer­ing and a ram for a
@@ -579,8 +579,8 @@
       <verse sID="Lev.9.24" osisID="Lev.9.24"/> [[Fire issued from the presence of the Eternal, con­suming the burnt-offering
        and fat upon the altar.]] When all the people saw this, they shouted and fell on their faces. <verse eID="Lev.9.24"/>
      </p>
-    <chapter eId="Lev.9"/>
-    <chapter osisId="Lev.10" sId="Lev.10"/>
+    <chapter eID="Lev.9"/>
+    <chapter osisID="Lev.10" sID="Lev.10"/>
      <p>
       <verse sID="Lev.10.1" osisID="Lev.10.1"/> Now Nadab and Abihu, two sons of Aaron, each took his pan, lighted it and
        laid incense on it, offering irregular fire before the Eternal, which the Eternal had not ordered them to offer. <verse eID="Lev.10.1"/>
@@ -640,8 +640,8 @@
       <verse sID="Lev.10.11" osisID="Lev.10.11"/> and that you may teach the Israelites all the rules that the Eternal has
        given them by Moses.</q>]] <verse eID="Lev.10.11"/>
      </p>
-    <chapter eId="Lev.10"/>
-    <chapter osisId="Lev.11" sId="Lev.11"/>
+    <chapter eID="Lev.10"/>
+    <chapter osisID="Lev.11" sID="Lev.11"/>
      <p>
       <verse sID="Lev.11.1" osisID="Lev.11.1"/>The Eternal gave Moses and Aaron these orders for the Israelites. <verse eID="Lev.11.1"/>
       <verse sID="Lev.11.2" osisID="Lev.11.2"/> <q>Here are the crea­tures you are allowed to eat, of all animals on earth. <verse eID="Lev.11.2"/>
@@ -739,8 +739,8 @@
       <verse sID="Lev.11.47" osisID="Lev.11.47"/> that you may distinguish between what is unclean and what is clean,
        between the living crea­tures that may be eaten and the living creatures that may not be eaten.</q> <verse eID="Lev.11.47"/>
      </p>
-    <chapter eId="Lev.11"/>
-    <chapter osisId="Lev.13" sId="Lev.13"/>
+    <chapter eID="Lev.11"/>
+    <chapter osisID="Lev.13" sID="Lev.13"/>
      <p>
       <verse sID="Lev.13.1" osisID="Lev.13.1"/>The Eternal said to Moses and Aaron: <verse eID="Lev.13.1"/>
       <verse sID="Lev.13.2" osisID="Lev.13.2"/><q>When a man has some swelling or
@@ -879,8 +879,8 @@
       <verse sID="Lev.13.59" osisID="Lev.13.59"/> Such is the law regard­ing marks of leprosy in a woollen or a linen
        garment, warp or woof, or in leather, showing how to pronounce anything clean or unclean.]]</q> <verse eID="Lev.13.59"/>
      </p>
-    <chapter eId="Lev.13"/>
-    <chapter osisId="Lev.14" sId="Lev.14"/>
+    <chapter eID="Lev.13"/>
+    <chapter osisID="Lev.14" sID="Lev.14"/>
      <p>
       <verse sID="Lev.14.1" osisID="Lev.14.1"/> The Eternal said to Moses,
       <verse eID="Lev.14.1"/>
@@ -1009,8 +1009,8 @@
       <verse sID="Lev.14.57" osisID="Lev.14.57"/> showing where each of these is unclean and where it is clean. Such is
        the law of leprosy.</q> <verse eID="Lev.14.57"/>
      </p>
-    <chapter eId="Lev.14"/>
-    <chapter osisId="Lev.15" sId="Lev.15"/>
+    <chapter eID="Lev.14"/>
+    <chapter osisID="Lev.15" sID="Lev.15"/>
      <p>
       <verse sID="Lev.15.1" osisID="Lev.15.1"/>The Eternal gave Moses and Aaron <verse eID="Lev.15.1"/>
       <verse sID="Lev.15.2" osisID="Lev.15.2"/> these orders for the Israelites: <q>When any man has a discharge from his
@@ -1086,8 +1086,8 @@
       <verse sID="Lev.15.30" osisID="Lev.15.30"/> one of them the priest shall offer as a sin-offering, the other as a
        burnt-offering. So shall the priest make expiation for her and her unclean discharge, be­fore the Eternal.</q> <verse eID="Lev.15.30"/>
      </p>
-    <chapter eId="Lev.15"/>
-    <chapter osisId="Lev.12" sId="Lev.12"/>
+    <chapter eID="Lev.15"/>
+    <chapter osisID="Lev.12" sID="Lev.12"/>
      <p>
       <verse sID="Lev.12.1" osisID="Lev.12.1"/>The Eternal also gave Moses <verse eID="Lev.12.1"/>
       <verse sID="Lev.12.2" osisID="Lev.12.2"/> these orders for the Israelites: <q>When a woman is delivered and bears
@@ -1110,8 +1110,8 @@
        two young pigeons, one for a burnt-offering and the other for a purgation offering; the priest shall make
        expiation for her, and she shall be clean.</q> <verse eID="Lev.12.8"/>
      </p>
-    <chapter eId="Lev.12"/>
-    <chapter osisId="Lev.15" sId="Lev.15"/>
+    <chapter eID="Lev.12"/>
+    <chapter osisID="Lev.15" sID="Lev.15"/>
      <p>
       <verse sID="Lev.15.31" osisID="Lev.15.31"/><q>So shall you warn the Israelites against their uncleanness, lest they
        die for their uncleanness, by polluting my Dwelling that is among them. <verse eID="Lev.15.31"/>
@@ -1120,8 +1120,8 @@
       <verse sID="Lev.15.33" osisID="Lev.15.33"/> for a woman suffering from her monthly period of impurity, for
        people, men or women, who have discharges, and for a man who lies beside an unclean woman.</q> <verse eID="Lev.15.33"/>
      </p>
-    <chapter eId="Lev.15"/>
-    <chapter osisId="Lev.16" sId="Lev.16"/>
+    <chapter eID="Lev.15"/>
+    <chapter osisID="Lev.16" sID="Lev.16"/>
      <p>
       <verse sID="Lev.16.1" osisID="Lev.16.1"/>After the death of the two sons of Aaron, who had approached the
        presence of the Eternal and died, <verse eID="Lev.16.1"/>
@@ -1223,8 +1223,8 @@
      <p>
        As the Eternal commanded Moses, so he did. <verse eID="Lev.16.34"/>
      </p>
-    <chapter eId="Lev.16"/>
-    <chapter osisId="Lev.17" sId="Lev.17"/>
+    <chapter eID="Lev.16"/>
+    <chapter osisID="Lev.17" sID="Lev.17"/>
      <p>
       <verse sID="Lev.17.1" osisID="Lev.17.1"/>The Eternal gave Moses these orders <verse eID="Lev.17.1"/>
       <verse sID="Lev.17.2" osisID="Lev.17.2"/> for Aaron and his sons and all Israel. <verse eID="Lev.17.2"/>
@@ -1270,8 +1270,8 @@
       <verse sID="Lev.17.16" osisID="Lev.17.16"/> If he does not wash his clothes and bathe his body, he must take the
        consequences of his crime.]]
       <verse eID="Lev.17.16"/>
-    <chapter eId="Lev.17"/>
-    <chapter osisId="Lev.18" sId="Lev.18"/>
+    <chapter eID="Lev.17"/>
+    <chapter osisID="Lev.18" sID="Lev.18"/>
       <verse sID="Lev.18.2" osisID="Lev.18.2"/> I am the Eternal your God.</q> <verse eID="Lev.18.2"/>
      </p>
      <p>
@@ -1339,8 +1339,8 @@
        outlawed from his kinsfolk. <verse eID="Lev.18.29"/>
       <verse sID="Lev.18.30" osisID="Lev.18.30"/> Obey my in­junctions, then, and never prac­tise any of these loathsome
        cus­toms which existed before you, never defile yourselves with them. I am the Eternal your God: <verse eID="Lev.18.30"/>
-    <chapter eId="Lev.18"/>
-    <chapter osisId="Lev.19" sId="Lev.19"/>
+    <chapter eID="Lev.18"/>
+    <chapter osisID="Lev.19" sID="Lev.19"/>
       <verse sID="Lev.19.2" osisID="Lev.19.2"/> you must be sacred, for I, the Eternal your God. am sacred.</q><verse eID="Lev.19.2"/>
      </p>
      <p>
@@ -1441,8 +1441,8 @@
       <verse sID="Lev.19.37" osisID="Lev.19.37"/> and you must keep all my rules and regulations obedi­ently: I am the
        Eternal.</q> <verse eID="Lev.19.37"/>
      </p>
-    <chapter eId="Lev.19"/>
-    <chapter osisId="Lev.20" sId="Lev.20"/>
+    <chapter eID="Lev.19"/>
+    <chapter osisID="Lev.20" sID="Lev.20"/>
      <p>
       <verse sID="Lev.20.1" osisID="Lev.20.1"/>The Eternal gave Moses <verse eID="Lev.20.1"/>
       <verse sID="Lev.20.2" osisID="Lev.20.2"/> these orders for the Israelites. <q>Anyone belonging to Israel or any
@@ -1477,8 +1477,8 @@
       <verse sID="Lev.20.12" osisID="Lev.20.12"/> If a man lies with his daughter-in-law, both of them shall be put to
        death; they have committed an unnatural crime--their blood be on their own heads!</q> <verse eID="Lev.20.12"/>
      </p>
-    <chapter eId="Lev.20"/>
-    <chapter osisId="Lev.19" sId="Lev.19"/>
+    <chapter eID="Lev.20"/>
+    <chapter osisID="Lev.19" sID="Lev.19"/>
      <p>
       <verse sID="Lev.19.20" osisID="Lev.19.20"/><q>If any man lies with a slave girl who is betrothed but not yet
        released or freed, an inquiry shall be held, but they shall not be put to death, since she was not yet free; <verse eID="Lev.19.20"/>
@@ -1487,8 +1487,8 @@
       <verse sID="Lev.19.22" osisID="Lev.19.22"/> the priest shall make expiation before the Eternal for his sin; so
        shall he be forgiven for the sin he has committed.</q><verse eID="Lev.19.22"/>
      </p>
-    <chapter eId="Lev.19"/>
-    <chapter osisId="Lev.20" sId="Lev.20"/>
+    <chapter eID="Lev.19"/>
+    <chapter osisID="Lev.20" sID="Lev.20"/>
      <p>
       <verse sID="Lev.20.13" osisID="Lev.20.13"/><q>If a man lies with a male as with a female, both men have done a
        loathsome thing and must be put to death--their blood be on their own heads! <verse eID="Lev.20.13"/>
@@ -1526,9 +1526,9 @@
        separated you from other races, to make you mine.</q></q>
       <verse eID="Lev.20.26"/>
      </p>
-    <chapter eId="Lev.20"/>
+    <chapter eID="Lev.20"/>
     <milestone type="pb" n="136"/>
-    <chapter osisId="Lev.21" sId="Lev.21"/>
+    <chapter osisID="Lev.21" sID="Lev.21"/>
      <p>
       <verse sID="Lev.21.1" osisID="Lev.21.1"/>The Eternal gave Moses these orders for the priests, the sons of Aaron.
        <q>No priest is to defile himself by mourning over any corpse of a kinsman, <verse eID="Lev.21.1"/>
@@ -1579,8 +1579,8 @@
        dis­figured; otherwise he will pro­fane my sanctuaries--for I am the Eternal who hallows them.</q> <verse eID="Lev.21.23"/>
       <verse sID="Lev.21.24" osisID="Lev.21.24"/> So Moses directed Aaron and his sons and all the Israelites. <verse eID="Lev.21.24"/>
      </p>
-    <chapter eId="Lev.21"/>
-    <chapter osisId="Lev.22" sId="Lev.22"/>
+    <chapter eID="Lev.21"/>
+    <chapter osisID="Lev.22" sID="Lev.22"/>
      <p>
       <verse sID="Lev.22.1" osisID="Lev.22.1"/>The Eternal also bade Moses <verse eID="Lev.22.1"/>
       <verse sID="Lev.22.2" osisID="Lev.22.2"/> tell Aaron and his sons to <q>be careful about the sacred gifts of the
@@ -1668,8 +1668,8 @@
       <verse sID="Lev.22.33" osisID="Lev.22.33"/> who brought you from the land of Egypt in order to be your God:
        I am the Eternal.</q> <verse eID="Lev.22.33"/>
      </p>
-    <chapter eId="Lev.22"/>
-    <chapter osisId="Lev.23" sId="Lev.23"/>
+    <chapter eID="Lev.22"/>
+    <chapter osisID="Lev.23" sID="Lev.23"/>
      <p>
       <verse sID="Lev.23.1" osisID="Lev.23.1"/>The Eternal gave Moses <verse eID="Lev.23.1"/>
       <verse sID="Lev.23.2" osisID="Lev.23.2"/>these orders for the Israelites. <verse eID="Lev.23.2"/>
@@ -1784,8 +1784,8 @@
       <verse sID="Lev.23.44" osisID="Lev.23.44"/> Thus did Moses announce to the Israelites the fixed festivals of the
        Eternal.<verse eID="Lev.23.44"/>
      </p>
-    <chapter eId="Lev.23"/>
-    <chapter osisId="Lev.24" sId="Lev.24"/>
+    <chapter eID="Lev.23"/>
+    <chapter osisID="Lev.24" sID="Lev.24"/>
      <p>
       <verse sID="Lev.24.1" osisID="Lev.24.1"/>The Eternal said to Moses, <verse eID="Lev.24.1"/>
       <verse sID="Lev.24.2" osisID="Lev.24.2"/><q>Order the Israelites to bring you pure, strained olive oil for
@@ -1842,9 +1842,9 @@
       <verse sID="Lev.24.23" osisID="Lev.24.23"/> So Moses told the Israelites; they took the man who had cursed,
        outside the camp and stoned him. The Israelites did as the Eternal had commanded Moses. <verse eID="Lev.24.23"/>
      </p>
-    <chapter eId="Lev.24"/>
+    <chapter eID="Lev.24"/>
     <milestone type="pb" n="141"/>
-    <chapter osisId="Lev.25" sId="Lev.25"/>
+    <chapter osisID="Lev.25" sID="Lev.25"/>
      <p>
       <verse sID="Lev.25.1" osisID="Lev.25.1"/>The Eternal gave Moses on mount Sinai these or­ders for the Israelites. <verse eID="Lev.25.1"/>
       <verse sID="Lev.25.2" osisID="Lev.25.2"/> <q>When you enter the land I give you, the land shall enjoy a sabbath
@@ -1981,8 +1981,8 @@
       <verse sID="Lev.25.55" osisID="Lev.25.55"/> For Israelites are slaves of mine, my own slaves whom I brought out
        of the land of Egypt: I am the Eternal your God. <verse eID="Lev.25.55"/>
      </p>
-    <chapter eId="Lev.25"/>
-    <chapter osisId="Lev.26" sId="Lev.26"/>
+    <chapter eID="Lev.25"/>
+    <chapter osisID="Lev.26" sID="Lev.26"/>
      <p>
       <verse sID="Lev.26.1" osisID="Lev.26.1"/><q>You shall not manufacture any unreal gods for your­selves, you shall not
        erect any carved idol or obelisk, you shall not put up any figured stone for worship in your land; for I am the
@@ -2089,8 +2089,8 @@
       <verse sID="Lev.26.46" osisID="Lev.26.46"/> Such were the rules, the regu­lations, and the laws which the Eternal
        drew up by Moses be­tween himself and the Israelites at mount Sinai. <verse eID="Lev.26.46"/>
      </p>
-    <chapter eId="Lev.26"/>
-    <chapter osisId="Lev.27" sId="Lev.27"/>
+    <chapter eID="Lev.26"/>
+    <chapter osisID="Lev.27" sID="Lev.27"/>
      <p>
       <verse sID="Lev.27.1" osisID="Lev.27.1"/>The Eternal gave Moses <verse eID="Lev.27.1"/>
       <verse sID="Lev.27.2" osisID="Lev.27.2"/> these orders for the Israel­ites. <q>When a man makes a spe­cial vow to
@@ -2178,6 +2178,6 @@
       <verse sID="Lev.27.34" osisID="Lev.27.34"/> Such are the commands which the Eternal gave Moses at mount Sinai
        for the Israelites. <verse eID="Lev.27.34"/>
      </p>
-    <chapter eId="Lev.27"/>
+    <chapter eID="Lev.27"/>
    </div>
    

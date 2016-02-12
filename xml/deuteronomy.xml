@@ -1,6 +1,6 @@
    <div type="book" osisID="Deut">
     <milestone type="pb" n="197"/>
-    <chapter osisId="Deut.1" sId="Deut.1"/>
+    <chapter osisID="Deut.1" sID="Deut.1"/>
      <p>
       <verse sID="Deut.1.1" osisID="Deut.1.1"/>The following are the words which Moses spoke to all Is­rael east of the Jordan in the
        desert, in the wady of the Arabah opposite Suph, between Paran on the one side and Tophel, Laban, Hazeroth, and Dizahab on the
@@ -104,8 +104,8 @@
      </p>
      <p>
       <verse sID="Deut.1.46" osisID="Deut.1.46"/>Then, after you had made that long stay of many days at Kadesh, <verse eID="Deut.1.46"/>
-    <chapter eId="Deut.1"/>
-    <chapter osisId="Deut.2" sId="Deut.2"/>
+    <chapter eID="Deut.1"/>
+    <chapter osisID="Deut.2" sID="Deut.2"/>
       <verse sID="Deut.2.1" osisID="Deut.2.1"/> we moved back into the desert in the direction of the Gulf of Akabah, as the Eter­nal
        had told me. For many a day we marched round the highlands of Seir, <verse eID="Deut.2.1"/>
       <verse sID="Deut.2.2" osisID="Deut.2.2"/> till the Eternal said to me, <verse eID="Deut.2.2"/>
@@ -181,8 +181,8 @@
       <verse sID="Deut.2.37" osisID="Deut.2.37"/> Only, as the Eternal had given strict orders, you never ventured near the land of
        the Ammonites, or near anything that lay on that side of the wady of Jabbok, or near the highland towns. <verse eID="Deut.2.37"/>
      </p>
-    <chapter eId="Deut.2"/>
-    <chapter osisId="Deut.3" sId="Deut.3"/>
+    <chapter eID="Deut.2"/>
+    <chapter osisID="Deut.3" sID="Deut.3"/>
      <p>
       <verse sID="Deut.3.1" osisID="Deut.3.1"/> We then moved up in the direction of Bashan, and Og king of Bashan with all his host
        attacked us in battle at Edrei. <verse eID="Deut.3.1"/>
@@ -251,8 +251,8 @@
        and he shall put them in possession of the land on which you look.</q> <verse eID="Deut.3.28"/>
       <verse sID="Deut.3.29" osisID="Deut.3.29"/> (We were in the valley opposite Beth-peor.) <verse eID="Deut.3.29"/>
      </p>
-    <chapter eId="Deut.3"/>
-    <chapter osisId="Deut.4" sId="Deut.4"/>
+    <chapter eID="Deut.3"/>
+    <chapter osisID="Deut.4" sID="Deut.4"/>
      <p>
       <verse sID="Deut.4.1" osisID="Deut.4.1"/>And now, O Israel, listen to the rules and regulations that I teach you, and obey
        them, so that you may live and enter on possession of the land which the Eternal the God of your
@@ -367,8 +367,8 @@
       <verse sID="Deut.4.49" osisID="Deut.4.49"/> with all the Arabah east of the Jordan down to the sea of the Arabah which lies
        under the slopes of Pisgah. <verse eID="Deut.4.49"/>
      </p>
-    <chapter eId="Deut.4"/>
-    <chapter osisId="Deut.5" sId="Deut.5"/>
+    <chapter eID="Deut.4"/>
+    <chapter osisID="Deut.5" sID="Deut.5"/>
      <p>
       <verse sID="Deut.5.1" osisID="Deut.5.1"/>Moses summoned all Israel and said to them: <q>O Israel, listen to the rules and
        regula­tions which I announce in your hearing this day, that you may learn them and be careful to obey them. <verse eID="Deut.5.1"/>
@@ -448,8 +448,8 @@
        down for you, that you may live, that things may go well with you, and that you may have a long life in the land that is to
        be your own.</q></q> <verse eID="Deut.5.33"/>
      </p>
-    <chapter eId="Deut.5"/>
-    <chapter osisId="Deut.6" sId="Deut.6"/>
+    <chapter eID="Deut.5"/>
+    <chapter osisID="Deut.6" sID="Deut.6"/>
      <p>
       <verse sID="Deut.6.1" osisID="Deut.6.1"/>Now here is the code, the rules and regulations, which O the Eternal your God has
        di­rected that you are to be taught to follow in the land which you are crossing to make your own, a land abounding with milk
@@ -503,8 +503,8 @@
       <verse sID="Deut.6.25" osisID="Deut.6.25"/> It will be the saving of us if we are mindful before the Eternal our God to do all
        these orders of his.</q> <verse eID="Deut.6.25"/>
      </p>
-    <chapter eId="Deut.6"/>
-    <chapter osisId="Deut.7" sId="Deut.7"/>
+    <chapter eID="Deut.6"/>
+    <chapter osisID="Deut.7" sID="Deut.7"/>
      <p>
       <verse sID="Deut.7.1" osisID="Deut.7.1"/>When the Eternal your God brings you into the land of which you are going to take
        possession, and clears it of many a nation for you, of the Hittites, the Girgashites, the Amorites, the Canaanites, the
@@ -573,8 +573,8 @@
        <milestone type="pb" n="208"/>
        abomination into your houses and so share its doom; you must loathe it and detest it, as a doomed thing. <verse eID="Deut.7.26"/>
      </p>
-    <chapter eId="Deut.7"/>
-    <chapter osisId="Deut.8" sId="Deut.8"/>
+    <chapter eID="Deut.7"/>
+    <chapter osisID="Deut.8" sID="Deut.8"/>
      <p>
       <verse sID="Deut.8.1" osisID="Deut.8.1"/>All that I order you to-day, you must be mindful to do, that you may live and
        multiply and enter on possession of the land which the Eternal swore to your fathers; <verse eID="Deut.8.1"/>
@@ -623,9 +623,9 @@
       <verse sID="Deut.8.20" osisID="Deut.8.20"/> like the nations which the Eternal is to wipe out before you, since you would not
        listen to the voice of the Eternal your God. <verse eID="Deut.8.20"/>
      </p>
-    <chapter eId="Deut.8"/>
+    <chapter eID="Deut.8"/>
     <milestone type="pb" n="209"/>
-    <chapter osisId="Deut.9" sId="Deut.9"/>
+    <chapter osisID="Deut.9" sID="Deut.9"/>
      <p>
       <verse sID="Deut.9.1" osisID="Deut.9.1"/>Listen, Israel: to-day you are to cross the Jordan, to invade and dispossess nations
        stronger and more powerful than your­selves, to take possession of towns large and walled up to the sky, <verse eID="Deut.9.1"/>
@@ -702,8 +702,8 @@
       <verse sID="Deut.9.29" osisID="Deut.9.29"/> And yet they are thy people, thy very own, whom thou didst bring out by sheer
        strength and main force.</q> <verse eID="Deut.9.29"/>
      </p>
-    <chapter eId="Deut.9"/>
-    <chapter osisId="Deut.10" sId="Deut.10"/>
+    <chapter eID="Deut.9"/>
+    <chapter osisID="Deut.10" sID="Deut.10"/>
      <p>
       <verse sID="Deut.10.1" osisID="Deut.10.1"/>The Eternal then said to me, <q>Cut two tablets of stone like the former ones, and
        come up the hill to me; make an ark of wood, <verse eID="Deut.10.1"/>
@@ -755,8 +755,8 @@
        and awful deeds which you saw with your own eyes. <verse eID="Deut.10.21"/>
       <verse sID="Deut.10.22" osisID="Deut.10.22"/> Your fathers went down to Egypt, seventy in number; and now the Eternal your
        God has made you as numerous as the stars in the sky. <verse eID="Deut.10.22"/>
-    <chapter eId="Deut.10"/>
-    <chapter osisId="Deut.11" sId="Deut.11"/>
+    <chapter eID="Deut.10"/>
+    <chapter osisID="Deut.11" sID="Deut.11"/>
       <verse sID="Deut.11.1" osisID="Deut.11.1"/>So you must love the Eternal your God and always do your duty to him, obeying his
        injunctions, his rules, his regulations, and his orders. <verse eID="Deut.11.1"/>
      </p>
@@ -832,8 +832,8 @@
        <milestone type="pb" n="213"/>
        putting before you this day. <verse eID="Deut.11.32"/>
      </p>
-    <chapter eId="Deut.11"/>
-    <chapter osisId="Deut.12" sId="Deut.12"/>
+    <chapter eID="Deut.11"/>
+    <chapter osisID="Deut.12" sID="Deut.12"/>
      <p>
       <verse sID="Deut.12.1" osisID="Deut.12.1"/>Here are the rules and regulations which you must be mindful to keep in the land
        which the Eternal your fathers’ God has allowed you to possess, all the days of your life on earth. <verse eID="Deut.12.1"/>
@@ -915,14 +915,14 @@
       <verse sID="Deut.12.31" osisID="Deut.12.31"/> You must not worship the Eternal your God thus; for they offered their gods all
        that is abominable and hate­ful to the Eternal, burning even their sons and daughters to their gods. <verse eID="Deut.12.31"/>
      </p>
-    <chapter eId="Deut.12"/>
-    <chapter osisId="Deut.16" sId="Deut.16"/>
+    <chapter eID="Deut.12"/>
+    <chapter osisID="Deut.16" sID="Deut.16"/>
      <p>
       <verse sID="Deut.16.21" osisID="Deut.16.21"/>You must never plant a sacred pole or any timber post beside the altar of the
        Eternal your God which you are erecting; <verse eID="Deut.16.21"/>
       <verse sID="Deut.16.22" osisID="Deut.16.22"/> nor must you set up an obelisk, which the Eternal your God hates. <verse eID="Deut.16.22"/>
-    <chapter eId="Deut.17"/>
-    <chapter osisId="Deut.17" sId="Deut.17"/>
+    <chapter eID="Deut.17"/>
+    <chapter osisID="Deut.17" sID="Deut.17"/>
       <verse sID="Deut.17.1" osisID="Deut.17.1"/> You must not sacrifice to the Eternal your God any ani­mal, large or small,
        which has a blemish or anything amiss with it: that is abominable to the Eternal your God. <verse eID="Deut.17.1"/>
      </p>
@@ -941,13 +941,13 @@
       <verse sID="Deut.17.7" osisID="Deut.17.7"/> The witnesses shall he the first to take a hand in killing him; then all the
        people shall follow. So shall you eradicate the evil from your midst. <verse eID="Deut.17.7"/>
      </p>
-    <chapter osisId="Deut.12" sId="Deut.12"/>
+    <chapter osisID="Deut.12" sID="Deut.12"/>
      <p>
       <verse sID="Deut.12.32" osisID="Deut.12.32"/> Whatever I command you, that you must he mindful to obey, adding nothing to it,
        taking nothing from it. <verse eID="Deut.12.32"/>
      </p>
-    <chapter eId="Deut.12"/>
-    <chapter osisId="Deut.13" sId="Deut.13"/>
+    <chapter eID="Deut.12"/>
+    <chapter osisID="Deut.13" sID="Deut.13"/>
      <p>
       <verse sID="Deut.13.1" osisID="Deut.13.1"/>If a prophet or dreamer arises among you, offering you some proof or portent,
       <verse eID="Deut.13.1"/>
@@ -997,8 +997,8 @@
        <milestone type="pb" n="216"/>
        what is right in the eyes of the Eternal your God. <verse eID="Deut.13.18"/>
      </p>
-    <chapter eId="Deut.13"/>
-    <chapter osisId="Deut.14" sId="Deut.14"/>
+    <chapter eID="Deut.13"/>
+    <chapter osisID="Deut.14" sID="Deut.14"/>
      <p>
       <verse sID="Deut.14.1" osisID="Deut.14.1"/>You are sons to the Eternal your God: you must not gash yourselves nor shave your
        foreheads for the dead; <verse eID="Deut.14.1"/>
@@ -1065,8 +1065,8 @@
        or possession in your land), the alien, the fatherless, and the widow in your community, shall come and eat till they are
        satisfied--that the Eternal your God may bless you in all the work to which you set your hand. <verse eID="Deut.14.29"/>
      </p>
-    <chapter eId="Deut.14"/>
-    <chapter osisId="Deut.15" sId="Deut.15"/>
+    <chapter eID="Deut.14"/>
+    <chapter osisID="Deut.15" sID="Deut.15"/>
      <p>
       <verse sID="Deut.15.1" osisID="Deut.15.1"/>At the end of every seven years you must grant a remission, <verse eID="Deut.15.1"/>
       <verse sID="Deut.15.2" osisID="Deut.15.2"/> as follows: every cred­itor shall remit what he has lent to his fellow-Israelite,
@@ -1123,8 +1123,8 @@
       <verse sID="Deut.15.23" osisID="Deut.15.23"/> Only, you must not eat it with the blood in it; you must pour out the blood
        like water on the ground. <verse eID="Deut.15.23"/>
      </p>
-    <chapter eId="Deut.15"/>
-    <chapter osisId="Deut.16" sId="Deut.16"/>
+    <chapter eID="Deut.15"/>
+    <chapter osisID="Deut.16" sID="Deut.16"/>
      <p>
       <verse sID="Deut.16.1" osisID="Deut.16.1"/>Keep the month of Abib sacred by holding the passover for the Eternal your God;
        for in the month of Abib the Eternal your God brought you out of Egypt by night.
@@ -1183,8 +1183,8 @@
       <verse sID="Deut.16.20" osisID="Deut.16.20"/> Justice, justice you must aim at, that you may live and pos­sess the land given
        to you by the Eternal your God. <verse eID="Deut.16.20"/>
      </p>
-    <chapter eId="Deut.16"/>
-    <chapter osisId="Deut.17" sId="Deut.17"/>
+    <chapter eID="Deut.16"/>
+    <chapter osisID="Deut.17" sID="Deut.17"/>
      <p>
       <verse sID="Deut.17.8" osisID="Deut.17.8"/>If any case should arise which is too hard for you to decide, a decision between
        murder and accidental death, a question of property, or of com­pensation for injury, or some local dispute, then you must
@@ -1219,8 +1219,8 @@
        that he may not swerve to right or to left from what is com­manded, but that he and his chil­dren may have their life
        pro­longed in the kingdom, within Israel. <verse eID="Deut.17.20"/>
      </p>
-    <chapter eId="Deut.17"/>
-    <chapter osisId="Deut.18" sId="Deut.18"/>
+    <chapter eID="Deut.17"/>
+    <chapter osisID="Deut.18" sID="Deut.18"/>
      <p>
       <verse sID="Deut.18.1" osisID="Deut.18.1"/>The priestly Levites, that is, the whole clan of Levi, shall not own any property
        or possession like the rest of Israel;
@@ -1276,8 +1276,8 @@
        fulfilled, should the thing never happen, then that is a word which the Eternal never uttered: the prophet dared to utter
        it in his presumption, and you need not be afraid of him. <verse eID="Deut.18.22"/>
      </p>
-    <chapter eId="Deut.18"/>
-    <chapter osisId="Deut.19" sId="Deut.19"/>
+    <chapter eID="Deut.18"/>
+    <chapter osisID="Deut.19" sID="Deut.19"/>
      <p>
       <verse sID="Deut.19.1" osisID="Deut.19.1"/>When the Eternal your God puts an end to the nations whose land the Eternal
        as­signs you, and when you dispos­sess them and live in their towns and houses, <verse eID="Deut.19.1"/>
@@ -1331,8 +1331,8 @@
       <verse sID="Deut.19.21" osisID="Deut.19.21"/> You must have no mercy upon him; life for life, an eye for an eye, a tooth
        for a tooth, a hand for a hand, a foot for a foot. <verse eID="Deut.19.21"/>
      </p>
-    <chapter eId="Deut.19"/>
-    <chapter osisId="Deut.20" sId="Deut.20"/>
+    <chapter eID="Deut.19"/>
+    <chapter osisID="Deut.20" sID="Deut.20"/>
      <p>
       <verse sID="Deut.20.1" osisID="Deut.20.1"/>When you set out to make war upon your enemies, and see war-horses and chariots
        and an army larger than yourselves, you must not be afraid of them, for the Eternal your God who brought you out of the
@@ -1385,8 +1385,8 @@
       <verse sID="Deut.20.20" osisID="Deut.20.20"/> Only trees which you know are not fruit-trees may be destroyed and cut down,
        so that you may build siege-works to reduce the town that makes war against you. <verse eID="Deut.20.20"/>
      </p>
-    <chapter eId="Deut.20"/>
-    <chapter osisId="Deut.21" sId="Deut.21"/>
+    <chapter eID="Deut.20"/>
+    <chapter osisID="Deut.21" sID="Deut.21"/>
      <p>
       <verse sID="Deut.21.1" osisID="Deut.21.1"/>If a man is found killed on the ground which the Eternal your God has assigned to
        you, lying in the open, and if no one knows who killed him, <verse eID="Deut.21.1"/>
@@ -1448,8 +1448,8 @@
        him the same day, for an impaled man is under God’s curse, and you must not pollute the land which the Eternal your God
        gives you for your own. <verse eID="Deut.21.23"/>
      </p>
-    <chapter eId="Deut.21"/>
-    <chapter osisId="Deut.22" sId="Deut.22"/>
+    <chapter eID="Deut.21"/>
+    <chapter osisID="Deut.22" sID="Deut.22"/>
      <p>
       <verse sID="Deut.22.1" osisID="Deut.22.1"/>You must not withhold your help from any ox or sheep of a fellow-countryman which
        you see going astray; you must be sure to take it back to your fellow-countryman. <verse eID="Deut.22.1"/>
@@ -1535,8 +1535,8 @@
        father, and she shall become his wife, since he violated her; he shall not divorce her as long as he lives. <verse eID="Deut.22.29"/>
       <verse sID="Deut.22.30" osisID="Deut.22.30"/> No man shall marry a wife of his father or have inter­course with her. <verse eID="Deut.22.30"/>
      </p>
-    <chapter eId="Deut.22"/>
-    <chapter osisId="Deut.23" sId="Deut.23"/>
+    <chapter eID="Deut.22"/>
+    <chapter osisID="Deut.23" sID="Deut.23"/>
      <p>
       <verse sID="Deut.23.1" osisID="Deut.23.1"/>No eunuch, no man sex­ually mutilated, shall enter the gathering of the Eternal.
       <verse eID="Deut.23.1"/>
@@ -1600,8 +1600,8 @@
       <verse sID="Deut.23.25" osisID="Deut.23.25"/> When you pass your neigh­bour’s standing corn, you may pull some ears with your
        hand, but you must never put a sickle into your neighbour’s standing corn. <verse eID="Deut.23.25"/>
      </p>
-    <chapter eId="Deut.23"/>
-    <chapter osisId="Deut.24" sId="Deut.24"/>
+    <chapter eID="Deut.23"/>
+    <chapter osisID="Deut.24" sID="Deut.24"/>
      <p>
       <verse sID="Deut.24.1" osisID="Deut.24.1"/>When a man takes a wife and marries her, if she dis­pleases him because he has
        found her immodest in some way, and if he writes out a deed of divorce and puts it into her hand, dis­missing her from his
@@ -1664,8 +1664,8 @@
       <verse sID="Deut.24.22" osisID="Deut.24.22"/> You must remember that you were once a slave yourself in the land of Egypt:
        therefore do I lay this command upon you. <verse eID="Deut.24.22"/>
      </p>
-    <chapter eId="Deut.24"/>
-    <chapter osisId="Deut.25" sId="Deut.25"/>
+    <chapter eID="Deut.24"/>
+    <chapter osisID="Deut.25" sID="Deut.25"/>
      <p>
       <verse sID="Deut.25.1" osisID="Deut.25.1"/>In a lawsuit, when men come into court, and the judges decide between them,
        ac­quitting the innocent and condemning the guilty, <verse eID="Deut.25.1"/>
@@ -1716,8 +1716,8 @@
        around, in the land which the Eternal your God assigns to you as your possession, you shall blot Amalek from the very
        memory of men; do not forget that. <verse eID="Deut.25.19"/>
      </p>
-    <chapter eId="Deut.25"/>
-    <chapter osisId="Deut.26" sId="Deut.26"/>
+    <chapter eID="Deut.25"/>
+    <chapter osisID="Deut.26" sID="Deut.26"/>
      <p>
       <verse sID="Deut.26.1" osisID="Deut.26.1"/>When once you have en­tered on possession of the land which the Eternal your God
        is giving you, as you hold it and live in it, <verse eID="Deut.26.1"/>
@@ -1777,8 +1777,8 @@
       <verse sID="Deut.26.19" osisID="Deut.26.19"/> en­gaging to lift you high in praise and renown and honour over all other
        nations he has made, that you may be a people sacred to the Eternal your God, as he has assured you.</q> <verse eID="Deut.26.19"/>
      </p>
-    <chapter eId="Deut.26"/>
-    <chapter osisId="Deut.27" sId="Deut.27"/>
+    <chapter eID="Deut.26"/>
+    <chapter osisID="Deut.27" sID="Deut.27"/>
      <p>
       <verse sID="Deut.27.1" osisID="Deut.27.1"/>Moses and all the sheikhs of Israel ordered the people to <q>obey all the
        commands I am enjoining upon you this day. <verse eID="Deut.27.1"/>
@@ -1844,8 +1844,8 @@
       <verse sID="Deut.27.26" osisID="Deut.27.26"/><q>A curse on the man who will not give effect to the words of this law!</q>
        And all the people shall answer, <q>So be it.</q></q> <verse eID="Deut.27.26"/>
      </p>
-    <chapter eId="Deut.27"/>
-    <chapter osisId="Deut.28" sId="Deut.28"/>
+    <chapter eID="Deut.27"/>
+    <chapter osisID="Deut.28" sID="Deut.28"/>
      <p>
       <verse sID="Deut.28.1" osisID="Deut.28.1"/>If only you will listen carefully to what the Eternal your God orders, mindful
        to carry out all his commands which I enjoin upon you this day, then the Eternal your God will lift you high above all the
@@ -2000,8 +2000,8 @@
        said you would never tread again, and there you shall let yourselves be sold as slaves to your enemies, but no one will
        buy you.</q> <verse eID="Deut.28.68"/>
      </p>
-    <chapter eId="Deut.28"/>
-    <chapter osisId="Deut.29" sId="Deut.29"/>
+    <chapter eID="Deut.28"/>
+    <chapter osisID="Deut.29" sID="Deut.29"/>
      <p>
       <verse sID="Deut.29.1" osisID="Deut.29.1"/>Such were the terms of the compact which the Eternal ordered Moses to draw up
        with the Israelites in the land of Moab, in addition to the com­pact which he had made with them at Horeb. <verse eID="Deut.29.1"/>
@@ -2082,8 +2082,8 @@
       <verse sID="Deut.29.29" osisID="Deut.29.29"/> The hidden issues of the future are with the Eternal our God, but the
        unfolded issues of the day are with us and our children for all time, that we may obey all the orders of this law. <verse eID="Deut.29.29"/>
      </p>
-    <chapter eId="Deut.29"/>
-    <chapter osisId="Deut.30" sId="Deut.30"/>
+    <chapter eID="Deut.29"/>
+    <chapter osisID="Deut.30" sID="Deut.30"/>
      <p>
       <verse sID="Deut.30.1" osisID="Deut.30.1"/><q>When all this has befallen you, the blessing and the curse which I have put
        be­fore you, and when you reflect upon them among all the nations where the Eternal your God has driven you-- <verse eID="Deut.30.1"/>
@@ -2135,8 +2135,8 @@
        for that means life to you and length of days, that you may live in the land which the Eter­nal swore to Abraham, Isaac,
        and Jacob, your fathers, that he would give to them.</q><verse eID="Deut.30.20"/>
      </p>
-    <chapter eId="Deut.30"/>
-    <chapter osisId="Deut.31" sId="Deut.31"/>
+    <chapter eID="Deut.30"/>
+    <chapter osisID="Deut.31" sID="Deut.31"/>
      <p>
       <verse sID="Deut.31.1" osisID="Deut.31.1"/>When Moses had finished these words to all Israel, <verse eID="Deut.31.1"/>
       <verse sID="Deut.31.2" osisID="Deut.31.2"/> he said to them, <q>I am a hundred and twenty years old to-day; I can no
@@ -2226,8 +2226,8 @@
       <verse sID="Deut.31.30" osisID="Deut.31.30"/> So Moses uttered the words of this song from beginning to end, in the
        hearing of all the assembly of Israel: <verse eID="Deut.31.30"/>
      </p>
-    <chapter eId="Deut.31"/>
-    <chapter osisId="Deut.32" sId="Deut.32"/>
+    <chapter eID="Deut.31"/>
+    <chapter osisID="Deut.32" sID="Deut.32"/>
      <p>
       <verse sID="Deut.32.1" osisID="Deut.32.1"/>
       <lg>
@@ -2478,5 +2478,5 @@ Canaan which I am giving the Israelites for their very own; then die on the hill
       <verse sID="Deut.32.53" osisID="Deut.32.53"/>
       <verse eID="Deut.32.53"/>
      </p>
-    <chapter eId="Deut.32"/>
+    <chapter eID="Deut.32"/>
    </div>

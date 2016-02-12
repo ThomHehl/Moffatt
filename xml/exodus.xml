@@ -1,6 +1,6 @@
    <div type="book" osisID="Exod">
     <milestone type="pb" n="61"/>
-    <chapter osisId="Exod.1" sId="Exod.1"/>
+    <chapter osisID="Exod.1" sID="Exod.1"/>
      <p>
       <verse sID="Exod.1.1" osisID="Exod.1.1"/>Here are the names of the sons of Israel who went to Egypt with Jacob, each
        man along with his household: <verse eID="Exod.1.1"/>
@@ -46,9 +46,9 @@
      <p>
       <verse sID="Exod.1.22" osisID="Exod.1.22"/>The Pharaoh then ordered all his people to throw every son born to the
        Hebrews into the Nile, but to save every girl alive. <verse eID="Exod.1.22"/>
-    <chapter eId="Exod.1"/>
-    <chapter osisId="Exod.2" sId="Exod.2"/>
-    <chapter eId="Exod.2"/>
+    <chapter eID="Exod.1"/>
+    <chapter osisID="Exod.2" sID="Exod.2"/>
+    <chapter eID="Exod.2"/>
       <verse sID="Exod.2.1" osisID="Exod.2.1"/> Now a man belonging to the house of Levi went and married a daughter of
        Levi; <verse eID="Exod.2.1"/>
       <verse sID="Exod.2.2" osisID="Exod.2.2"/> the woman conceived and bore a son, and as she saw he was a handsome boy,
@@ -116,8 +116,8 @@
      <p>
       <hi type="italic">
        <verse sID="Exod.2.23" osisID="Exod.2.23"/>During this long time the king of Egypt died. <verse eID="Exod.2.23"/>
-    <chapter eId="Exod.2"/>
-    <chapter osisId="Exod.4" sId="Exod.4"/>
+    <chapter eID="Exod.2"/>
+    <chapter osisID="Exod.4" sID="Exod.4"/>
        <verse sID="Exod.4.19" osisID="Exod.4.19"/> Then the Eternal said to Moses in Midian, <q>Go back to Egypt, for all
         the men who tried to kill you are dead.</q> <verse eID="Exod.4.19"/>
        <verse sID="Exod.4.20" osisID="Exod.4.20"/> So Moses put his wife and his son on an ass, and went back to the land
@@ -129,8 +129,8 @@
         bride­groom in blood, by this circum­cision.</q>
        <verse eID="Exod.4.26"/>
       </hi>
-    <chapter eId="Exod.4"/>
-    <chapter osisId="Exod.2" sId="Exod.2"/>
+    <chapter eID="Exod.4"/>
+    <chapter osisID="Exod.2" sID="Exod.2"/>
      <p>
       <verse sID="Exod.2.23" osisID="Exod.2.23"/>The Israelites were groaning under their bondage, and the wail of their
        cries for help came up to God. <verse eID="Exod.2.23"/>
@@ -139,9 +139,9 @@
       <verse sID="Exod.2.25" osisID="Exod.2.25"/> God noted the plight of the Israelites and God made himself known to
        them. <verse eID="Exod.2.25"/>
      </p>
-    <chapter eId="Exod.2"/>
+    <chapter eID="Exod.2"/>
      </p>
-    <chapter osisId="Exod.3" sId="Exod.3"/>
+    <chapter osisID="Exod.3" sID="Exod.3"/>
      <p>
       <verse sID="Exod.3.1" osisID="Exod.3.1"/>[One day, as Moses was tending the flock of his
        <milestone type="pb" n="63"/>
@@ -216,8 +216,8 @@
        silver and of gold as well as for raiment, to bedeck your sons and daughters. You shall take toll of the
        Egyp­tians.]</q> <verse eID="Exod.3.22"/>
      </p>
-    <chapter eId="Exod.3"/>
-    <chapter osisId="Exod.4" sId="Exod.4"/>
+    <chapter eID="Exod.3"/>
+    <chapter osisID="Exod.4" sID="Exod.4"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.4.1" osisID="Exod.4.1"/>Moses answered, <q>But sup­pose they will not believe me, or listen to what
@@ -288,8 +288,8 @@
         the Israelites and marked their distress, they bowed their heads and wor­shipped. <verse eID="Exod.4.31"/>
       </hi>
      </p>
-    <chapter eId="Exod.4"/>
-    <chapter osisId="Exod.5" sId="Exod.5"/>
+    <chapter eID="Exod.4"/>
+    <chapter osisID="Exod.5" sID="Exod.5"/>
      <p>
       <verse sID="Exod.5.1" osisID="Exod.5.1"/>[After that, Moses and Aaron went and told the Pharaoh that the Eternal,
        the God of Israel, bade him let the Eternal’s people go and hold a festival in his honour in the desert. <verse eID="Exod.5.1"/>
@@ -358,8 +358,8 @@
         ill-treated this people? Why didst thou ever send me here? <verse eID="Exod.5.22"/>
        <verse sID="Exod.5.23" osisID="Exod.5.239"/> Ever since I came to speak in thy name to the Pharaoh, he has
         ill-treated this people, and thou hast done nothing to rescue thy people.</q> <verse eID="Exod.5.23"/>
-    <chapter eId="Exod.5"/>
-    <chapter osisId="Exod.6" sId="Exod.6"/>
+    <chapter eID="Exod.5"/>
+    <chapter osisID="Exod.6" sID="Exod.6"/>
        <verse sID="Exod.6.1" osisID="Exod.6.1"/> The Eternal said to Moses, <q>Now you shall see what I will do to the
         Pharaoh; he will be forced to let them go, he will be forced to put them out of his country.</q> <verse eID="Exod.6.1"/>
       </hi>
@@ -427,8 +427,8 @@
        Egypt all that I tell you.</q> <verse eID="Exod.6.29"/>
       <verse sID="Exod.6.30" osisID="Exod.6.30"/> Moses protested, <q>But I am a clumsy speaker; how will the Pharaoh ever
        listen to me?</q>]] <verse eID="Exod.6.30"/>
-    <chapter eId="Exod.6"/>
-    <chapter osisId="Exod.7" sId="Exod.7"/>
+    <chapter eID="Exod.6"/>
+    <chapter osisID="Exod.7" sID="Exod.7"/>
       <verse sID="Exod.7.1" osisID="Exod.7.1"/> The Eternal answered Moses, <q>I make you a god for the Pharaoh, and your
        brother Aaron shall be a prophet for you. <verse eID="Exod.7.1"/>
       <verse sID="Exod.7.2" osisID="Exod.7.2"/> You must utter all that I command you, and your brother Aaron will tell
@@ -497,8 +497,8 @@
       <hi type="italic">
        Seven days passed after the Eternal had struck the Nile;
        <verse eID="Exod.7.24"/>
-    <chapter eId="Exod.7"/>
-    <chapter osisId="Exod.8" sId="Exod.8"/>
+    <chapter eID="Exod.7"/>
+    <chapter osisID="Exod.8" sID="Exod.8"/>
        <verse sID="Exod.8.1" osisID="Exod.8.1"/> then the Eternal told Moses to go to the Pharaoh with this message from
         the Eternal: <q>Let my people go and worship me. <verse eID="Exod.8.1"/>
        <verse sID="Exod.8.2" osisID="Exod.8.2"/> If you refuse to let them go, I will plague all your country with
@@ -596,8 +596,8 @@
         people go. <verse eID="Exod.8.32"/>
       </hi>
      </p>
-    <chapter eId="Exod.8"/>
-    <chapter osisId="Exod.9" sId="Exod.9"/>
+    <chapter eID="Exod.8"/>
+    <chapter osisID="Exod.9" sID="Exod.9"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.9.1" osisID="Exod.9.1"/>The Eternal told Moses to go to the Pharaoh with this message from the
@@ -696,8 +696,8 @@
       <verse sID="Exod.9.35" osisID="Exod.9.35"/> [The Pharaoh was obdurate; he would not let the Israelites go, as the
        Eternal had predicted through Moses.] <verse eID="Exod.9.35"/>
      </p>
-    <chapter eId="Exod.9"/>
-    <chapter osisId="Exod.10" sId="Exod.10"/>
+    <chapter eID="Exod.9"/>
+    <chapter osisID="Exod.10" sID="Exod.10"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.10.1" osisID="Exod.10.1"/>The Eternal said to Moses, <q>Go to the Pharaoh; for I have made him and his
@@ -776,8 +776,8 @@
        enjoyed light in their dwellings; <verse eID="Exod.10.23"/>
       <verse sID="Exod.10.27" osisID="Exod.10.27"/> but the Eternal made the Pharaoh stubborn, and he would not let them go. <verse eID="Exod.10.27"/>
      </p>
-    <chapter eId="Exod.10"/>
-    <chapter osisId="Exod.4" sId="Exod.4"/>
+    <chapter eID="Exod.10"/>
+    <chapter osisID="Exod.4" sID="Exod.4"/>
      <p>
       <verse sID="Exod.4.22" osisID="Exod.4.22"/>Then the Eternal said to Moses, <q>Tell the Pharaoh this from the Eternal:
        <q>Israel is my son, my first-born son; <verse eID="Exod.4.22"/>
@@ -785,8 +785,8 @@
        let him go. So now I will slay your son, your first­born son.</q></q>]
       <verse eID="Exod.4.23"/>
      </p>
-    <chapter eId="Exod.4"/>
-    <chapter osisId="Exod.10" sId="Exod.10"/>
+    <chapter eID="Exod.4"/>
+    <chapter osisID="Exod.10" sID="Exod.10"/>
      <p>
       <verse sID="Exod.10.24" osisID="Exod.10.24"/>The Pharaoh then called for Moses and said, <q>Go and worship the Eternal; you
        may take your little ones, but let your flocks and herds stay, behind.</q> <verse eID="Exod.10.24"/>
@@ -799,8 +799,8 @@
        see to that. For the day you enter my presence, you die.</q> <verse eID="Exod.10.28"/>
       <verse sID="Exod.10.29" osisID="Exod.10.29"/> <q>A true word,</q> Moses answered; <q>never again will I enter your pres­ence.</q> <verse eID="Exod.10.29"/>
      </p>
-    <chapter eId="Exod.10"/>
-    <chapter osisId="Exod.11" sId="Exod.11"/>
+    <chapter eID="Exod.10"/>
+    <chapter osisID="Exod.11" sID="Exod.11"/>
      <p>
       <verse sID="Exod.11.1" osisID="Exod.11.1"/>[The Eternal then said to Moses, <q>One shock more will I let fall upon the
        Pharaoh and upon Egypt, and then he will let you leave; indeed, when he lets you go without any re­serve, he will push you
@@ -833,8 +833,8 @@
       <verse sID="Exod.11.10" osisID="Exod.11.10"/> So Moses and Aaron performed all these mar­vels in front of the Pharaoh; but
        the Eternal made the Pharaoh stubborn, and he would not let the Israelites go from his land. <verse eID="Exod.11.10"/>
      </p>
-    <chapter eId="Exod.11"/>
-    <chapter osisId="Exod.12" sId="Exod.12"/>
+    <chapter eID="Exod.11"/>
+    <chapter osisID="Exod.12" sID="Exod.12"/>
      <p>
       <verse sID="Exod.12.1" osisID="Exod.12.1"/>Then the Eternal said to Moses and Aaron in the land of Egypt, <verse eID="Exod.12.1"/>
       <verse sID="Exod.12.2" osisID="Exod.12.2"/> <q>This month shall be for you the first month in the year, the month
@@ -966,8 +966,8 @@
        ordered Moses and Aaron. <verse eID="Exod.12.50"/>
       <verse sID="Exod.12.51" osisID="Exod.12.51"/> And on that very day the Eternal brought the Israelites in their
        array out of the land of Egypt. <verse eID="Exod.12.51"/>
-    <chapter eId="Exod.12"/>
-    <chapter osisId="Exod.13" sId="Exod.13"/>
+    <chapter eID="Exod.12"/>
+    <chapter osisID="Exod.13" sID="Exod.13"/>
       <verse sID="Exod.13.1" osisID="Exod.13.1"/> Then said the Eternal to Moses, <verse eID="Exod.13.1"/>
       <verse sID="Exod.13.2" osisID="Exod.13.2"/> <q>Consecrate all the first-born to me, whatever is the first to open
        the womb in Israel, human or animal, for it belongs to me.</q> <verse eID="Exod.13.2"/>
@@ -1031,8 +1031,8 @@
       <verse sID="Exod.13.22" osisID="Exod.13.22"/> the column of cloud by day and the column of fire by night never ceased to
        go in front of the people. <verse eID="Exod.13.22"/>
      </p>
-    <chapter eId="Exod.13"/>
-    <chapter osisId="Exod.14" sId="Exod.14"/>
+    <chapter eID="Exod.13"/>
+    <chapter osisID="Exod.14" sID="Exod.14"/>
      <p>
       <verse sID="Exod.14.1" osisID="Exod.14.1"/>Then the Eternal told Moses <verse eID="Exod.14.1"/>
       <verse sID="Exod.14.2" osisID="Exod.14.2"/> to order the Israel­ites to wheel round and camp in front of Pihahiroth
@@ -1124,8 +1124,8 @@
         people stood in awe of the Eternal, believing in the Eternal and in his servant Moses. <verse eID="Exod.14.31"/>
       </hi>
      </p>
-    <chapter eId="Exod.14"/>
-    <chapter osisId="Exod.15" sId="Exod.15"/>
+    <chapter eID="Exod.14"/>
+    <chapter osisID="Exod.15" sID="Exod.15"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.15.1" osisID="Exod.15.1"/>Then Moses and the Israelites sang this song to the Eternal:
@@ -1287,8 +1287,8 @@
       <verse sID="Exod.15.27" osisID="Exod.15.27"/>They came to Elim, where there were twelve springs of
        <milestone type="pb" n="79"/>
        water and seventy palm trees; there they camped beside the springs.] <verse eID="Exod.15.27"/>
-    <chapter eId="Exod.15"/>
-    <chapter osisId="Exod.16" sId="Exod.16"/>
+    <chapter eID="Exod.15"/>
+    <chapter osisID="Exod.16" sID="Exod.16"/>
       <verse sID="Exod.16.1" osisID="Exod.16.1"/> Marching from Elim, the community of the Israelites all came to the desert
        of Sin between Elim and Sinai, on the fifteenth day of the second month after they left Egypt. <verse eID="Exod.16.1"/>
       <verse sID="Exod.16.2" osisID="Exod.16.2"/> The community of the Israelites all grumbled against Moses and Aaron in the
@@ -1375,8 +1375,8 @@
        land; they ate manna till they reached the frontier of the land of Canaan. <verse eID="Exod.16.35"/>
       <verse sID="Exod.16.36" osisID="Exod.16.36"/> (Seven pints or an <q>omer</q> is the tenth of an ephah.) <verse eID="Exod.16.36"/>
      </p>
-    <chapter eId="Exod.16"/>
-    <chapter osisId="Exod.17" sId="Exod.17"/>
+    <chapter eID="Exod.16"/>
+    <chapter osisID="Exod.17" sID="Exod.17"/>
      <p>
       <verse sID="Exod.17.1" osisID="Exod.17.1"/>From the desert of Sin the whole community of the Israelites travelled by
        stages, as the Eternal bade them, and camped at Rephidim. [As there was no water to drink, <verse eID="Exod.17.1"/>
@@ -1415,8 +1415,8 @@
       <verse sID="Exod.17.16" osisID="Exod.17.16"/> declaring, <q>We pledge loyalty to the Eter­nal’s banner in his feud
        against Amalek from age to age!</q> <verse eID="Exod.17.16"/>
      </p>
-    <chapter eId="Exod.17"/>
-    <chapter osisId="Exod.18" sId="Exod.18"/>
+    <chapter eID="Exod.17"/>
+    <chapter osisID="Exod.18" sID="Exod.18"/>
      <p>
       <verse sID="Exod.18.1" osisID="Exod.18.1"/>Now Jethro, the priest of Midian, the father-in-law of Moses, heard of all
        that God had done for Moses and for his people Israel (for the Eternal had brought Israel out of Egypt). <verse eID="Exod.18.1"/>
@@ -1485,8 +1485,8 @@
       <verse sID="Exod.18.27" osisID="Exod.18.27"/> Then Moses let his father-in-law go; he betook himself to his own
        country.] <verse eID="Exod.18.27"/>
      </p>
-    <chapter eId="Exod.18"/>
-    <chapter osisId="Exod.19" sId="Exod.19"/>
+    <chapter eID="Exod.18"/>
+    <chapter osisID="Exod.19" sID="Exod.19"/>
      <p>
       <verse sID="Exod.19.2" osisID="Exod.19.2"/>Leaving Rephidim, the Israelites reached the desert of Sinai, where they
        pitched camp in the desert; <verse eID="Exod.19.2"/>
@@ -1555,8 +1555,8 @@
        <verse sID="Exod.19.25" osisID="Exod.19.25"/> So Moses went down and said to them . . . <verse eID="Exod.19.25"/>
       </hi>
      </p>
-    <chapter eId="Exod.19"/>
-    <chapter osisId="Exod.20" sId="Exod.20"/>
+    <chapter eID="Exod.19"/>
+    <chapter osisID="Exod.20" sID="Exod.20"/>
      <p>
       <verse sID="Exod.20.1" osisID="Exod.20.1"/>[God spoke all these words. <verse eID="Exod.20.1"/>
       <verse sID="Exod.20.2" osisID="Exod.20.2"/> <q>I am the Eternal, your God, who brought you from the land of Egypt,
@@ -1610,16 +1610,16 @@
        covet a fellow-country­man’s wife, nor his slaves, male or female, nor his ox, nor his ass, nor anything that
        belongs to a fellow-countryman. </q> <verse eID="Exod.20.17"/>
      </p>
-    <chapter eId="Exod.20"/>
-    <chapter osisId="Exod.19" sId="Exod.19"/>
+    <chapter eID="Exod.20"/>
+    <chapter osisID="Exod.19" sID="Exod.19"/>
      <p>
       <verse sID="Exod.19.7" osisID="Exod.19.7"/>Then Moses went and summoned the sheikhs of the people, putting before
        them all these orders given him by the Eternal; <verse eID="Exod.19.7"/>
       <verse sID="Exod.19.8" osisID="Exod.19.8"/> and the people all an­swered together, <q>Whatever the Eternal has
        ordered, we will do.</q> <verse eID="Exod.19.8"/>
      </p>
-    <chapter eId="Exod.19"/>
-    <chapter osisId="Exod.20" sId="Exod.20"/>
+    <chapter eID="Exod.19"/>
+    <chapter osisID="Exod.20" sID="Exod.20"/>
      <p>
       <verse sID="Exod.20.18" osisID="Exod.20.18"/>But when the people saw all the thunder and light­ning and the trumpet
        blast and the mountain in smoke, the peo­ple were all afraid and trembled; they stood far back <verse eID="Exod.20.18"/>
@@ -1643,8 +1643,8 @@
       <verse sID="Exod.20.26" osisID="Exod.20.26"/> And you must never mount on steps to my altar, lest you ex­pose your
        limbs.</q><verse eID="Exod.20.26"/>
      </p>
-    <chapter eId="Exod.20"/>
-    <chapter osisId="Exod.21" sId="Exod.21"/>
+    <chapter eID="Exod.20"/>
+    <chapter osisID="Exod.21" sID="Exod.21"/>
      <p>
       <verse sID="Exod.21.1" osisID="Exod.21.1"/>Here are the regulations you must lay before them. <verse eID="Exod.21.1"/>
       <verse sID="Exod.21.2" osisID="Exod.21.2"/> When you buy a Hebrew slave, he shall serve for six years and go free
@@ -1727,8 +1727,8 @@
       <verse sID="Exod.21.36" osisID="Exod.21.36"/> If the ox is known to have been in the habit of goring, and yet the
        owner has not shut him up, he must pay ox for ox, keeping the dead beast for himself. <verse eID="Exod.21.36"/>
      </p>
-    <chapter eId="Exod.21"/>
-    <chapter osisId="Exod.22" sId="Exod.22"/>
+    <chapter eID="Exod.21"/>
+    <chapter osisID="Exod.22" sID="Exod.22"/>
      <p>
       <verse sID="Exod.22.1" osisID="Exod.22.1"/>If a man steal an ox or a sheep and either slays it or sells it, he must
        pay five oxen for the ox and four sheep for the sheep. <verse eID="Exod.22.1"/>
@@ -1815,8 +1815,8 @@
       <verse sID="Exod.22.31" osisID="Exod.22.31"/>Also, as you are to be sacred men to me, you must never eat the flesh
        of an animal torn to pieces in the field; fling that to the dogs. <verse eID="Exod.22.31"/>
      </p>
-    <chapter eId="Exod.22"/> 
-    <chapter osisId="Exod.23" sId="Exod.23"/>
+    <chapter eID="Exod.22"/> 
+    <chapter osisID="Exod.23" sID="Exod.23"/>
      <p>
       <verse sID="Exod.23.1" osisID="Exod.23.1"/>You must never repeat a baseless rumour; never side with a bad man, to
        give malicious evidence. <verse eID="Exod.23.1"/>
@@ -1895,8 +1895,8 @@
       <verse sID="Exod.23.33" osisID="Exod.23.33"/> they must not live within your land, lest they make you sin against
        me; for if you worship their gods it will endanger you. <verse eID="Exod.23.33"/>
      </p>
-    <chapter eId="Exod.23"/>
-    <chapter osisId="Exod.24" sId="Exod.24"/>
+    <chapter eID="Exod.23"/>
+    <chapter osisID="Exod.24" sID="Exod.24"/>
      <p>
       <verse sID="Exod.24.3" osisID="Exod.24.3"/>Then Moses went and told the people all the orders and regulations of
        the Eternal, and the people all answered, with one voice, <q>Whatever the Eter­nal has ordered, that will we do.</q> <verse eID="Exod.24.3"/>
@@ -1943,8 +1943,8 @@
       <verse sID="Exod.24.18" osisID="Exod.24.18"/>
        Moses entered the cloud and went up the moun­tain and Moses was on the mountain for forty days and forty nights]. <verse eID="Exod.24.18"/>
      </p>
-    <chapter eId="Exod.24"/>
-    <chapter osisId="Exod.25" sId="Exod.25"/>
+    <chapter eID="Exod.24"/>
+    <chapter osisID="Exod.25" sID="Exod.25"/>
      <p>
       <verse sID="Exod.25.1" osisID="Exod.25.1"/>The Eternal said to Moses, <verse eID="Exod.25.1"/>
       <verse sID="Exod.25.2" osisID="Exod.25.2"/><q>Tell the Israelites to raise a special offering for me; take it from
@@ -2023,8 +2023,8 @@
       <verse sID="Exod.25.40" osisID="Exod.25.40"/> And see that you make everything according to the pat­tern shown you
        on the moun­tain. <verse eID="Exod.25.40"/>
      </p>
-    <chapter eId="Exod.25"/>
-    <chapter osisId="Exod.26" sId="Exod.26"/>
+    <chapter eID="Exod.25"/>
+    <chapter osisID="Exod.26" sID="Exod.26"/>
      <p>
       <verse sID="Exod.26.1" osisID="Exod.26.1"/>Also you must furnish the Dwelling with ten curtains, made of fine
        twined linen, violet, purple, and scarlet, and em­broidered with designs of kherubs; <verse eID="Exod.26.1"/>
@@ -2099,8 +2099,8 @@
       <verse sID="Exod.26.37" osisID="Exod.26.37"/> make five columns of acacia wood for the veil, overlaying them with
        gold, make golden hooks for them, and cast five bronze pedestals for them. <verse eID="Exod.26.37"/>
      </p>
-    <chapter eId="Exod.26"/>
-    <chapter osisId="Exod.27" sId="Exod.27"/>
+    <chapter eID="Exod.26"/>
+    <chapter osisID="Exod.27" sID="Exod.27"/>
      <p>
       <verse sID="Exod.27.1" osisID="Exod.27.1"/>You must make an altar of acacia wood, a square altar, seven and a
        half feet long, seven and a half feet broad, and four and a half feet high. <verse eID="Exod.27.1"/>
@@ -2151,8 +2151,8 @@
        the Eternal inside the Trysting tent, outside the curtains that hang in front of the shrine. This is to be a
        standing order, age after age, to be kept by the Israelites. <verse eID="Exod.27.21"/>
      </p>
-    <chapter eId="Exod.27"/>
-    <chapter osisId="Exod.28" sId="Exod.28"/>
+    <chapter eID="Exod.27"/>
+    <chapter osisID="Exod.28" sID="Exod.28"/>
      <p>
       <verse sID="Exod.28.1" osisID="Exod.28.1"/>Present your brother Aaron and his sons from among the Israelites, that they may
        serve as priests for me, Aaron and his sons Nadab, Abihu, Eleazar, and Ithamar. <verse eID="Exod.28.1"/>
@@ -2245,8 +2245,8 @@
        and his. <verse eID="Exod.28.43"/>
      </p>
      <milestone type="pb" n="94"/>
-    <chapter eId="Exod.28"/>
-    <chapter osisId="Exod.29" sId="Exod.29"/>
+    <chapter eID="Exod.28"/>
+    <chapter osisID="Exod.29" sID="Exod.29"/>
      <p>
       <verse sID="Exod.29.1" osisID="Exod.29.1"/>To dedicate them for serv­ing me as priests, you must do this. Take a young bullock,
        two unblemished rams, <verse eID="Exod.29.1"/>
@@ -2342,8 +2342,8 @@
       <verse sID="Exod.29.42" osisID="Exod.29.42"/> This is to be a regular burnt-offering made, age after age, at the entrance of
        the Trysting tent before the Eternal, where I meet you and speak to you.]] <verse eID="Exod.29.42"/>
      </p>
-    <chapter eId="Exod.29"/>
-    <chapter osisId="Exod.30" sId="Exod.30"/>
+    <chapter eID="Exod.29"/>
+    <chapter osisID="Exod.30" sID="Exod.30"/>
      <p>
       <verse sID="Exod.30.1" osisID="Exod.30.1"/>You must also make an altar for incense; make it of acacia wood, <verse eID="Exod.30.1"/>
       <verse sID="Exod.30.2" osisID="Exod.30.2"/> a square altar, eighteen inches long by eighteen inches broad, and three feet high;
@@ -2421,8 +2421,8 @@
        sacred to the Eternal; <verse eID="Exod.30.37"/>
       <verse sID="Exod.30.38" osisID="Exod.30.38"/> whoever makes any perfume like it for the toilet shall be outlawed.</q> <verse eID="Exod.30.38"/>
      </p>
-    <chapter eId="Exod.30"/>
-    <chapter osisId="Exod.31" sId="Exod.31"/>
+    <chapter eID="Exod.30"/>
+    <chapter osisID="Exod.31" sID="Exod.31"/>
      <p>
       <verse sID="Exod.31.1" osisID="Exod.31.1"/> The Eternal said to Moses, <verse eID="Exod.31.1"/>
       <verse sID="Exod.31.2" osisID="Exod.31.2"/> <q>I have specially chosen Bezalel the son of Uri and the grandson of Hur,
@@ -2459,8 +2459,8 @@
       <verse sID="Exod.31.18" osisID="Exod.31.18"/> When he finished talking to Moses on the mountain of Sinai, he gave him the two
        tablets with the law[, the two stone tablets inscribed by God’s own finger. <verse eID="Exod.31.18"/>
      </p>
-    <chapter eId="Exod.31"/>
-    <chapter osisId="Exod.32" sId="Exod.32"/>
+    <chapter eID="Exod.31"/>
+    <chapter osisID="Exod.32" sID="Exod.32"/>
      <p>
       <verse sID="Exod.32.1" osisID="Exod.32.1"/>When the people saw j that Moses was long in coming down the mountain, the people
        gathered round Aaron, saying, <q>Come on, make us some god to go in front of us; as for this Moses, the man who brought us
@@ -2554,8 +2554,8 @@
         front of you. Yet, when I am punishing, I will punish them for their sin.</q> <verse eID="Exod.32.34"/>
       </p>
      </hi>
-    <chapter eId="Exod.32"/>
-    <chapter osisId="Exod.33" sId="Exod.33"/>
+    <chapter eID="Exod.32"/>
+    <chapter osisID="Exod.33" sID="Exod.33"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.33.1" osisID="Exod.33.1"/>Then the Eternal said to Moses, <q>March away up from this spot, you and the peo­ple
@@ -2614,8 +2614,8 @@
         seen.</q> <verse eID="Exod.33.23"/>
       </hi>
      </p>
-    <chapter eId="Exod.33"/>
-    <chapter osisId="Exod.34" sId="Exod.34"/>
+    <chapter eID="Exod.33"/>
+    <chapter osisID="Exod.34" sID="Exod.34"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.34.1" osisID="Exod.34.1"/>Then said the Eternal to Moses, <q>Cut two tablets of stone[,</q>
@@ -2642,18 +2642,18 @@
        <verse sID="Exod.34.9" osisID="Exod.34.9"/> He said, <q>If I have found favour with thee, O Eternal, then let the Eternal
         go with me; for this is an obstinate race. So pardon our iniquity and sin, and take us to belong to thyself.</q>
        <verse eID="Exod.34.9"/>
-    <chapter eId="Exod.34"/>
-    <chapter osisId="Exod.33" sId="Exod.33"/>
+    <chapter eID="Exod.34"/>
+    <chapter osisID="Exod.33" sID="Exod.33"/>
        <verse sID="Exod.33.14" osisID="Exod.33.14"/> The Eternal answered, <q>My presence shall go with you, and I will settle
         you safe.</q> <verse eID="Exod.33.15"/>
        <verse sID="Exod.33.15" osisID="Exod.33.15"/> <q>If 15 thy presence is not with us,</q> said Moses, <q>move us not from
         where we are. <verse eID="Exod.33.15"/>
        <verse sID="Exod.33.16" osisID="Exod.33.16"/> For how can anyone know that I have found favour with thee, I and thy people,
         un­less thou goest with us, singling us out, myself and thy people, from all nations upon earth?</q> <verse eID="Exod.33.16"/>
-    <chapter eId="Exod.33"/>
+    <chapter eID="Exod.33"/>
       </hi>
      </p>
-    <chapter osisId="Exod.34" sId="Exod.34"/>
+    <chapter osisID="Exod.34" sID="Exod.34"/>
      <p>
       <hi type="italic">
        <verse sID="Exod.34.10" osisID="Exod.34.10"/>Then said the Eternal, <q>I make a compact [[to work marvels before all your
@@ -2715,8 +2715,8 @@
        Moses drew the veil over his face again,
        <milestone type="pb" n="102"/>till he next went in to the pres­ence of the Eternal. <verse eID="Exod.34.35"/>
      </p>
-    <chapter eId="Exod.34"/>
-    <chapter osisId="Exod.35" sId="Exod.35"/>
+    <chapter eID="Exod.34"/>
+    <chapter osisID="Exod.35" sID="Exod.35"/>
      <p>
       <verse sID="Exod.35.1" osisID="Exod.35.1"/>Moses convened all the Is­raelites in their assembly and said to them: <q>Here are
        the orders laid down by the Eternal for your obedience. <verse eID="Exod.35.1"/>
@@ -2785,8 +2785,8 @@
        of Dan, ability to train oth­ers, <verse eID="Exod.35.34"/>
       <verse sID="Exod.35.35" osisID="Exod.35.35"/> endowing them with skill in every skilful craft, in engraving, in decorating,
        in handling violet, purple, and scarlet yarn, in working with fine linen, in weav­ing, and in all sorts of trades and arts. <verse eID="Exod.35.35"/>
-    <chapter eId="Exod.35"/>
-    <chapter osisId="Exod.36" sId="Exod.36"/>
+    <chapter eID="Exod.35"/>
+    <chapter osisID="Exod.36" sID="Exod.36"/>
       <verse sID="Exod.36.1" osisID="Exod.36.1"/> Bezalel and Oholiab are to do the work, along with any skilful craftsman who is
        inspired by the Eternal with skill and knowledge for carrying out all the work upon the sanctuary, as the Eternal has
        given orders.</q> <verse eID="Exod.36.1"/>
@@ -2861,8 +2861,8 @@
       <verse sID="Exod.36.38" osisID="Exod.36.38"/> with five columns and hooks for it, the capitals and the rods being overlaid
        with gold, and the five pedestals be­ing made of bronze. <verse eID="Exod.36.38"/>
      </p>
-    <chapter eId="Exod.36"/>
-    <chapter osisId="Exod.37" sId="Exod.37"/>
+    <chapter eID="Exod.36"/>
+    <chapter osisID="Exod.37" sID="Exod.37"/>
      <p>
       <verse sID="Exod.37.1" osisID="Exod.37.1"/>Bezalel made the ark of acacia wood, four feet long two and a half feet broad
        and high, <verse eID="Exod.37.1"/>
@@ -2922,8 +2922,8 @@
       <verse sID="Exod.37.29" osisID="Exod.37.29"/> The sacred anoint­ing oil and the pure incense of fragrant spices he prepared
        by the art of the perfumers. <verse eID="Exod.37.29"/>
      </p>
-    <chapter eId="Exod.37"/>
-    <chapter osisId="Exod.38" sId="Exod.38"/>
+    <chapter eID="Exod.37"/>
+    <chapter osisID="Exod.38" sID="Exod.38"/>
      <p>
       <verse sID="Exod.38.1" osisID="Exod.38.1"/>The altar of burnt-offering he made of acacia wood, a square altar, seven and a
        half feet long, seven and a half feet broad, and four and a half feet high, <verse eID="Exod.38.1"/>
@@ -2994,8 +2994,8 @@
       <verse sID="Exod.38.31" osisID="Exod.38.31"/> the pedestals for the outer courtyard, the pedestals for the entrance of the
        court­yard, with all the tent-pegs of the Dwelling and of the outer courtyard.]] <verse eID="Exod.38.31"/>
      </p>
-    <chapter eId="Exod.38"/>
-    <chapter osisId="Exod.39" sId="Exod.39"/>
+    <chapter eID="Exod.38"/>
+    <chapter osisID="Exod.39" sID="Exod.39"/>
      <p>
       <verse sID="Exod.39.1" osisID="Exod.39.1"/>From the violet, purple, and scarlet yarn were made the sacerdotal
        vestments for serving in the sacred place, the sacred robes for Aaron, as the Eternal had given orders to Moses. <verse eID="Exod.39.1"/>
@@ -3093,8 +3093,8 @@
       <verse sID="Exod.39.43" osisID="Exod.39.43"/> and when Moses saw all they had done, and done as the Eternal had or­dered,
        Moses blessed them for it. <verse eID="Exod.39.43"/>
      </p>
-    <chapter eId="Exod.39"/>
-    <chapter osisId="Exod.40" sId="Exod.40"/>
+    <chapter eID="Exod.39"/>
+    <chapter osisID="Exod.40" sID="Exod.40"/>
      <p>
       <verse sID="Exod.40.1" osisID="Exod.40.1"/>The Eternal then said to Moses, <verse eID="Exod.40.1"/>
       <verse sID="Exod.40.2" osisID="Exod.40.2"/><q>You must erect the Dwelling in the Trysting tent on the first day of the
@@ -3173,5 +3173,5 @@
       <verse sID="Exod.40.38" osisID="Exod.40.38"/> The cloud of the Eternal rested on the Dwelling by day, and there was fire
        in the cloud at night, as all the house of Israel saw, along their route. <verse eID="Exod.40.38"/>
      </p>
-    <chapter eId="Exod.40"/>
+    <chapter eID="Exod.40"/>
    </div>
