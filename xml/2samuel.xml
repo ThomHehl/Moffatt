@@ -1755,6 +1755,7 @@
       <verse eID="2Sam.22.34"/>
       <verse sID="2Sam.22.35" osisID="2Sam.22.35"/>
         <l> He trains me how to fight, </l>
+      <milestone type="pb" n="378"/>
         <l> till I can bend a bow of bronze. </l>
       <verse eID="2Sam.22.35"/>
       <verse sID="2Sam.22.36" osisID="2Sam.22.36"/>
@@ -1836,4 +1837,54 @@
       <verse eID="2Sam.22.51"/>
      </p>
     <chapter eID="2Sam.22"/>
+    <chapter osisID="2Sam.23" sID="2Sam.23"/>
+      <verse sID="2Sam.23.1" osisID="2Sam.23.1"/>
+       Here are the last words of David.
+       <lg>
+        <l> The lay of David, Jesse’s son, </l>
+        <l> the lay of him who rose, of one </l>
+        <l> whom Jacob’s God made king, </l>
+        <l> whom Israel’s lyrics love to sing. </l>
+       </lg>
+      <verse eID="2Sam.23.1"/>
+      <verse sID="2Sam.23.2" osisID="2Sam.23.2"/>
+       <lg>
+           <l> By me the Eternal’s spirit speaks, </l>
+           <l> the word upon my lips is his. </l>
+      <verse eID="2Sam.23.2"/>
+      <verse sID="2Sam.23.3" osisID="2Sam.23.3"/>
+           <l> The God of Jacob speaks, </l>
+           <l> the Strength of Israel told me this: </l>
+       </lg>
+       <q><lg>
+           <l> When a man rules men aright, </l>
+           <l> ruling in God’s fear, </l>
+      <verse eID="2Sam.23.3"/>
+      <verse sID="2Sam.23.4" osisID="2Sam.23.4"/>
+           <l> he dawns on them like morning light, </l>
+           <l> like a cloudless morning, clear, </l>
+           <l> when rains are gone and earth lies green and bright. </l>
+           </lg>
+      <verse eID="2Sam.23.4"/>
+      <verse sID="2Sam.23.5" osisID="2Sam.23.5"/>
+       <lg>
+           <l> God has made my line secure, </l>
+           <l> his pact with me shall never end, </l>
+           <l> all is in order due and sure; </l>
+           <l> on him my bliss and weal depend. </l>
+       </lg>
+      <verse eID="2Sam.23.5"/>
+      <verse sID="2Sam.23.6" osisID="2Sam.23.6"/>
+         <lg>
+           <l> But godless men will never thrive; </l>
+           <l> like thorn-trees in a desert land, </l>
+           <l>that none will gather with his hand, </l>
+      <verse eID="2Sam.23.6"/>
+      <verse sID="2Sam.23.7" osisID="2Sam.23.7"/>
+           <l> nor for their nurture strive-- </l>
+           <l> fire is their final bale, </l>
+           <l> despite their spears and iron mail.</l>
+       </lg></q>
+      <verse eID="2Sam.23.7"/>
+    <chapter eID="2Sam.23"/>
    </div>
