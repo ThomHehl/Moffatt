@@ -38,6 +38,7 @@ public class StudyBibleInfoReader {
                 int num = getChapterValue(file);
                 chapter.setNumber(num);
                 readChapter(file, chapter);
+                bibleBook.addChapter(chapter);
             }
         });
 
@@ -100,7 +101,8 @@ public class StudyBibleInfoReader {
         List<File> result = new ArrayList<>();
 
         for(File file : startingWith.getParentFile().listFiles()) {
-            if( file.getName().startsWith(bookName)) {
+            String fileName = file.getName();
+            if( fileName.endsWith(".html") && fileName.startsWith(bookName)) {
                 result.add(file);
             }
         }
