@@ -9,7 +9,7 @@ class StudyBibleInfoReaderTest extends Specification{
 
     def "get book name"() {
         given: "A test file"
-        File file = new File("html/1 Corinthians 1.html")
+        File file = new File("../html/1 Corinthians 1.html")
 
         when: "Getting the book name"
         String bookname = StudyBibleInfoReader.getBookName(file)
@@ -28,5 +28,7 @@ class StudyBibleInfoReaderTest extends Specification{
 
         then: "Should be successful"
         files.size() == 16
+        files.get(0).name == "1 Corinthians 1.html"
+        files.get(15).name == "1 Corinthians 16.html"
     }
 }

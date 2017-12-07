@@ -18,8 +18,6 @@ public class BibleHtml {
                 fileList.add(file);
             }
         }
-
-        System.out.println(fileList);
     }
 
     public void readBooks() {

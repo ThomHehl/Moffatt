@@ -18,7 +18,7 @@ public class BibleChapter {
         return verses;
     }
 
-    public void setVerses(List<BibleVerse> verses) {
-        this.verses = verses;
+    public void addVerse(BibleVerse verse) {
+        verses.add(verse);
     }
 }
