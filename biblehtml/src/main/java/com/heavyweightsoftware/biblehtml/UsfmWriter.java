@@ -11,17 +11,27 @@ import java.text.MessageFormat;
 import java.util.function.Consumer;
 
 public class UsfmWriter {
+    private static final char           DOUBLE_QUOTE = '\"';
+    private static final char           SINGLE_QUOTE = '\'';
+
+    private static final String         DOUBLE_END = "\\qt1*";
+    private static final String         DOUBLE_START = "\\qt1";
+    private static final String         SINGLE_END = "\\qt2*";
+    private static final String         SINGLE_START = "\\qt2";
+
     private static final MessageFormat  FORMAT_CHAPTER = new MessageFormat("\\c {0}\n");
     private static final MessageFormat  FORMAT_VERSE = new MessageFormat("\\v {0} {1}\n");
     private static final MessageFormat  FORMAT_TITLE1 = new MessageFormat("\\mt1 {0}\n");
 
+    private boolean                     inDoubleQuote;
+    private boolean                     inSingleQuote;
     private File                        outputDirectory;
 
     public UsfmWriter(File directory) {
         outputDirectory = directory;
     }
 
-    public void write(BibleBook bibleBook) {
+    public synchronized void write(BibleBook bibleBook) {
         File usfm = createOutput(bibleBook);
         PrintWriter writer;
         try {
@@ -46,7 +56,7 @@ public class UsfmWriter {
         return result;
     }
 
-    private void writeBook(BibleBook bibleBook, PrintWriter writer) {
+    private void writeBook(final BibleBook bibleBook, final PrintWriter writer) {
         writeBookName(bibleBook, writer);
 
         bibleBook.getChapters().forEach(new Consumer<BibleChapter>() {
@@ -62,7 +72,7 @@ public class UsfmWriter {
         writer.print(titleText);
     }
 
-    private static void writeChapter(BibleChapter bibleChapter, PrintWriter writer) {
+    private void writeChapter(final BibleChapter bibleChapter, final PrintWriter writer) {
         String chapterText = chapter(bibleChapter.getNumber());
         writer.print(chapterText);
 
@@ -74,8 +84,49 @@ public class UsfmWriter {
         });
     }
 
-    private static void writeVerse(BibleVerse bibleVerse, PrintWriter writer) {
-        writer.print(verse(bibleVerse.getNumber(), bibleVerse.getBibleText()));
+    private void writeVerse(final BibleVerse bibleVerse, final PrintWriter writer) {
+        String bibleText = formatText(bibleVerse.getBibleText());
+        writer.print(verse(bibleVerse.getNumber(), bibleText));
+    }
+
+    private String formatText(String bibleText) {
+        StringBuilder sb = new StringBuilder(bibleText.length() + 10);
+
+        for(char ch : bibleText.toCharArray()) {
+            if(inSingleQuote) {
+                if(ch == SINGLE_QUOTE) {
+                    sb.append(singleEnd());
+                    inSingleQuote = false;
+                }
+                else {
+                    sb.append(ch);
+                }
+            }
+            else if(inDoubleQuote) {
+                if(ch == DOUBLE_QUOTE) {
+                    sb.append(doubleEnd());
+                    inDoubleQuote = false;
+                }
+                else if(ch == SINGLE_QUOTE) {
+                    sb.append(singleStart());
+                    inSingleQuote = true;
+                }
+                else {
+                    sb.append(ch);
+                }
+            }
+            else {
+                if(ch == DOUBLE_QUOTE) {
+                    sb.append(doubleStart());
+                    inDoubleQuote = true;
+                }
+                else {
+                    sb.append(ch);
+                }
+            }
+        }
+
+        return sb.toString();
     }
 
     private static String chapter(int num) {
@@ -83,13 +134,33 @@ public class UsfmWriter {
         return result;
     }
 
-    private static String verse(int num, String text) {
-        String result = FORMAT_VERSE.format(new Object[]{num, text});
+    private static String doubleEnd() {
+        String result = DOUBLE_END;
+        return result;
+    }
+
+    private static String doubleStart() {
+        String result = DOUBLE_START;
+        return result;
+    }
+
+    private static String singleEnd() {
+        String result = SINGLE_END;
+        return result;
+    }
+
+    private static String singleStart() {
+        String result = SINGLE_START;
         return result;
     }
 
     private static String title1(String text) {
         String result = FORMAT_TITLE1.format(new Object[]{text});
+        return result;
+    }
+
+    private static String verse(int num, String text) {
+        String result = FORMAT_VERSE.format(new Object[]{num, text});
         return result;
     }
 }
