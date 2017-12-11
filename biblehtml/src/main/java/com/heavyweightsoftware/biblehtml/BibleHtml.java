@@ -1,6 +1,6 @@
-package com.heavyweightsoftware.biblehtml.bible;
+package com.heavyweightsoftware.biblehtml;
 
-import com.heavyweightsoftware.biblehtml.StudyBibleInfoReader;
+import com.heavyweightsoftware.biblehtml.bible.BibleBook;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -22,11 +22,14 @@ public class BibleHtml {
 
     public void readBooks() {
         StudyBibleInfoReader bibleReader = new StudyBibleInfoReader();
+        File outputDirectory = fileList.get(0).getParentFile();
+        UsfmWriter usfmWriter = new UsfmWriter(outputDirectory);
 
         fileList.forEach(new Consumer<File>() {
             @Override
             public void accept(File file) {
-                bibleReader.readBook(file);
+                BibleBook bibleBook = bibleReader.readBook(file);
+                usfmWriter.write(bibleBook);
             }
         });
     }

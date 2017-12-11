@@ -1,10 +1,11 @@
 package com.heavyweightsoftware.biblehtml.bible;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class BibleChapter {
     private int                         number;
-    private List<BibleVerse>            verses;
+    private List<BibleVerse>            verses = new ArrayList<>();
 
     public int getNumber() {
         return number;
