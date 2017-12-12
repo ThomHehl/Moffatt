@@ -63,6 +63,8 @@ public class UsfmWriter {
                 writeChapter(bibleChapter, writer);
             }
         });
+
+        lastQuote.clear();
     }
 
     private static void writeBookName(BibleBook bibleBook, PrintWriter writer) {
