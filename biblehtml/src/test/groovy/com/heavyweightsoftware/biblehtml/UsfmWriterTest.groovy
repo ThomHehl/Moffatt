@@ -10,6 +10,28 @@ class UsfmWriterTest extends Specification {
         usfmWriter = new UsfmWriter()
     }
 
+    def "format text no quotes"() {
+        given: "Some text"
+        String text = "Do, or do not, there is no try.";
+
+        when: "Formatting text"
+        String formatted = usfmWriter.formatText(text)
+
+        then: "Should not have changed"
+        formatted == text
+    }
+
+    def "format text apostrophe"() {
+        given: "Some text "
+        String text = "That boy ain't right.";
+
+        when: "Formatting text"
+        String formatted = usfmWriter.formatText(text)
+
+        then: "Should not have changed"
+        formatted == text
+    }
+
     def "format text with both quotes in single line"() {
         given: "Some text"
         String text = "And the prophet said, \"Thus saith the LORD, 'You will be rich and famous.'\"";
@@ -37,6 +59,21 @@ class UsfmWriterTest extends Specification {
         pos > 0;
 
         formatted.endsWith("n.\\qt1*")
+    }
+
+    def "format text single quote in single line"() {
+        given: "Some text"
+        String text = "the voice of one who cries in the desert, 'Make the way ready for the Lord, level the paths for him' "
+
+        when: "Formatting text"
+        String formatted = usfmWriter.formatText(text)
+
+        then: "Should contain USFM quote tags"
+        int pos = formatted.indexOf("t, \\qt1M")
+        pos > 0;
+
+        String str = "im\\qt1* "
+        formatted.endsWith(str)
     }
 
     def "format text two quotes in multiple lines"() {
